@@ -8,8 +8,8 @@
 怪物素材,306,睡眠袋,睡眠袋,Sleep Sac,睡眠Sac
 怪物素材,308,火炎袋,火炎袋,Flame Sac,火焔Sac
 怪物素材,309,電氣袋,電気袋,Electro Sac,電气Sac
-怪物素材,310,（未译）,狂走エキス,Dash Extract,力量提取物
-怪物素材,311,（未译）,アルビノエキス,Pale Extract,蒼白提取物
+怪物素材,310,狂走浸出物,狂走エキス,Dash Extract,力量提取物
+怪物素材,311,白色浸出物,アルビノエキス,Pale Extract,蒼白提取物
 怪物素材,312,龍骨【小】,竜骨【小】,Sm Monster Bone,小怪物骨制
 怪物素材,313,龍骨【中】,竜骨【中】,Med Monster Bone,中怪物骨制
 怪物素材,314,龍骨【大】,竜骨【大】,Lg Monster Bone,大怪物骨制
@@ -74,7 +74,7 @@
 怪物素材,373,青怪鳥堅殼,青怪鳥の堅殻,B.Kut-Ku Carapace,藍怪鳥甲殼
 怪物素材,374,橡膠質皮,ゴム質の皮,Rubbery Hide,橡膠皮毛
 怪物素材,375,橡膠質上皮,ゴム質の上皮,Rubbery Hide+,橡膠上皮
-怪物素材,376,（未译）,毒怪鳥の頭,Gypceros Head,毒怪鳥頭部
+怪物素材,376,毒怪鳥頭,毒怪鳥の頭,Gypceros Head,毒怪鳥頭部
 怪物素材,377,橡膠質紫皮,ゴム質の紫皮,P.Rubbery Hide,純淨橡膠皮毛
 怪物素材,378,毒怪鳥紫翼,毒怪鳥の紫翼,P.Gypceros Wing,純淨毒怪鳥翼
 怪物素材,379,魚龍肝,魚竜のキモ,Piscine Liver,魚龍Liver
@@ -104,23 +104,23 @@
 怪物素材,403,櫻火龍堅殼,桜火竜の堅殻,P.Rathian Carpace,粉雌火龍甲殼
 怪物素材,404,金火龍上鱗,金火竜の上鱗,G.Rathian Scale+,金雌火龍鱗+
 怪物素材,405,金火龍堅殼,金火竜の堅殻,G.Rathian Carpace,金雌火龍甲殼
-怪物素材,406,雄火龍翼爪,火竜の翼爪,Fire Wyvern Claw,烈火飛龍之爪
-怪物素材,407,雄火龍骨髓,火竜の骨髄,Fire Wyvern Marrw,烈火飛龍骨髓
-怪物素材,408,雄火龍鱗,火竜の鱗,Rathalos Scale,雄火龍鱗片
-怪物素材,409,雄火龍上鱗,火竜の上鱗,Rathalos Scale+,雄火龍+
-怪物素材,410,雄火龍逆鱗,火竜の逆鱗,Rathalos Plate,雄火龍胸甲
-怪物素材,411,雄火龍紅玉,火竜の紅玉,Rathalos Ruby,雄火龍紅宝石
-怪物素材,412,雄火龍甲殼,火竜の甲殻,Rathalos Shell,雄火龍盾甲
-怪物素材,413,雄火龍堅殼,火竜の堅殻,Rathalos Carpace,雄火龍甲殼
-怪物素材,414,雄火龍尾巴,火竜の尻尾,Rathalos Tail,雄火龍之尾
-怪物素材,415,雄火龍翼膜,火竜の翼膜,Rathalos Webbing,雄火龍网膜
-怪物素材,416,（未译）,火竜の翼,Rathalos Wing,雄火龍之翼
-怪物素材,417,（未译）,蒼火竜の鱗,A.Rathalos Scale,蒼雄火龍鱗
-怪物素材,418,蒼雄火龍上鱗,蒼火竜の上鱗,A.Rathalos Scale+,蔚藍雄火龍鱗+
-怪物素材,419,蒼雄火龍甲殼,蒼火竜の甲殻,A.Rathalos Shell,蒼雄火龍盾甲
-怪物素材,420,蒼雄火龍堅殼,蒼火竜の堅殻,A.Rathalos Cpc,蒼雄火龍甲殼
-怪物素材,421,蒼雄火龍尾巴,蒼火竜の尻尾,A.Rathalos Tail,蔚藍雄火龍之尾
-怪物素材,422,蒼雄火龍之翼,蒼火竜の翼,A.Rathalos Wing,蔚藍雄火龍之翼
+怪物素材,406,火龍的翼爪,火竜の翼爪,Fire Wyvern Claw,烈火飛龍之爪
+怪物素材,407,火龍的骨髄,火竜の骨髄,Fire Wyvern Marrw,烈火飛龍骨髓
+怪物素材,408,火龍的鱗,火竜の鱗,Rathalos Scale,雄火龍鱗片
+怪物素材,409,火龍的上鱗,火竜の上鱗,Rathalos Scale+,雄火龍+
+怪物素材,410,火龍的逆鱗,火竜の逆鱗,Rathalos Plate,雄火龍胸甲
+怪物素材,411,火龍的紅玉,火竜の紅玉,Rathalos Ruby,雄火龍紅宝石
+怪物素材,412,火龍的甲殼,火竜の甲殻,Rathalos Shell,雄火龍盾甲
+怪物素材,413,火龍的堅殼,火竜の堅殻,Rathalos Carpace,雄火龍甲殼
+怪物素材,414,火龍的尾巴,火竜の尻尾,Rathalos Tail,雄火龍之尾
+怪物素材,415,火龍的翼膜,火竜の翼膜,Rathalos Webbing,雄火龍网膜
+怪物素材,416,火龍的翼,火竜の翼,Rathalos Wing,雄火龍之翼
+怪物素材,417,蒼火龍鱗,蒼火竜の鱗,A.Rathalos Scale,蒼雄火龍鱗
+怪物素材,418,蒼火龍上鱗,蒼火竜の上鱗,A.Rathalos Scale+,蔚藍雄火龍鱗+
+怪物素材,419,蒼火龍甲殼,蒼火竜の甲殻,A.Rathalos Shell,蒼雄火龍盾甲
+怪物素材,420,蒼火龍堅殼,蒼火竜の堅殻,A.Rathalos Cpc,蒼雄火龍甲殼
+怪物素材,421,蒼火龍尾巴,蒼火竜の尻尾,A.Rathalos Tail,蔚藍雄火龍之尾
+怪物素材,422,蒼火龍之翼,蒼火竜の翼,A.Rathalos Wing,蔚藍雄火龍之翼
 怪物素材,423,銀火龍上鱗,銀火竜の上鱗,S.Rathalos Scale+,銀雄火龍鱗+
 怪物素材,424,銀火龍堅殼,銀火竜の堅殻,S.Rathalos Cpc,銀火龍甲殼
 怪物素材,425,銀火龍尾巴,銀火竜の尻尾,S.Rathalos Tail,銀火龍之尾
@@ -128,8 +128,8 @@
 怪物素材,427,銀火龍翼,銀火竜の翼,S.Rathalos Wing,銀雄火龍之翼
 怪物素材,428,鬆弛皮毛,ブヨブヨした皮,Flabby Hide,松弛皮毛
 怪物素材,429,真珠色柔皮,真珠色の柔皮,Khezu Pearl Hide,電龍鞣皮
-怪物素材,430,蒼白背肉,アルビノの中落ち,Pale Bone,蒼白骨制
-怪物素材,431,蒼白霜降肉,アルビノの霜降り,Pale Khezu Steak,蒼白電龍牛排
+怪物素材,430,白色背肉,アルビノの中落ち,Pale Bone,蒼白骨制
+怪物素材,431,白色霜降肉,アルビノの霜降り,Pale Khezu Steak,蒼白電龍牛排
 怪物素材,432,魅惑色柔皮,魅惑色の柔皮,Alluring Hide,誘人皮毛
 怪物素材,433,魅惑色翼膜,魅惑色の翼膜,Alluring Webbing,誘人网膜
 怪物素材,434,岩龍甲殼,岩竜の甲殻,Basarios Shell,岩龍盾甲
@@ -325,8 +325,8 @@
 怪物素材,970,水龍上鰭,水竜の上ビレ,Plesioth Fin+,水龍優質鰭
 怪物素材,971,翠水龍上鱗,翠水竜の上鱗,G.Plesioth Scale+,綠水龍鱗+
 怪物素材,972,翠水龍上鰭,翠水竜の上ビレ,G.Plesioth Fin+,綠水龍優質鰭
-怪物素材,973,雄火龍體液,火竜の体液,Rath Fluid,烈火飛龍流体
-怪物素材,974,雄火龍延髓,火竜の延髄,Rath Medulla,烈火飛龍褐茎
+怪物素材,973,火龍的體液,火竜の体液,Rath Fluid,烈火飛龍流体
+怪物素材,974,火龍的延髄,火竜の延髄,Rath Medulla,烈火飛龍褐茎
 怪物素材,975,岩龍涙,岩竜の涙,Basarios Tears,岩龍泪水
 怪物素材,976,鎧龍延髓,鎧竜の延髄,Gravios Medulla,鎧龍頭腦茎
 怪物素材,977,黒角龍堅甲,黒角竜の堅甲,B.Diablos Ridge,黑色角龍胸腔
@@ -632,7 +632,7 @@
 怪物素材,3514,橡膠質極上皮,ゴム質の極上皮,Most Rubbery Hide,至尊橡膠皮膚
 怪物素材,3515,毒怪鳥石頭,毒怪鳥の石頭,Gypceros Crystal,堅硬毒怪鳥頭部
 怪物素材,3516,炎王龍烈角,炎王龍の烈角,Teostra Fine Horn,炎王精致角飾
-怪物素材,3517,炎王格鬥角,炎王龍の闘角,Teostra Rend Horn,炎王格斗角飾
+怪物素材,3517,炎王龍闘角,炎王龍の闘角,Teostra Rend Horn,炎王格斗角飾
 怪物素材,3518,炎王龍霸角,炎王龍の覇角,Teostra Lord Horn,炎王至高角飾
 怪物素材,3519,水龍旋鰭,水竜の旋ビレ,Plesioth Razorfin,水龍回旋鰭
 怪物素材,3520,水龍刃鰭,水竜の刃ビレ,Plesioth Bladefin,水龍鰭刃
@@ -699,8 +699,8 @@
 怪物素材,3732,速龍最上皮,ランポスの最上皮,V.Drome Piel,速龍王頂皮毛
 怪物素材,3733,速龍長爪,ランポスの長爪,V.Drome Lng Claw,速龍王長之爪
 怪物素材,3734,一角龍硬殼,一角竜の硬殻,Monoblos Hard Shl,一角龍堅硬盾甲
-怪物素材,3735,蒼雄火龍禍鱗,蒼火竜の禍鱗,A.Rath Doom Scale,A火龍災厄鱗
-怪物素材,3736,蒼雄火龍獄鱗,蒼火竜の獄鱗,A.Rath Prison Scl,A火龍監獄鱗片
+怪物素材,3735,蒼火龍禍鱗,蒼火竜の禍鱗,A.Rath Doom Scale,A火龍災厄鱗
+怪物素材,3736,蒼火龍獄鱗,蒼火竜の獄鱗,A.Rath Prison Scl,A火龍監獄鱗片
 怪物素材,3737,古龍種舌,古龍種の舌,E.Dragon Tongue,長老龍王舌頭
 怪物素材,3738,古龍種腱,古龍種の腱,E.Dragon Muscle,長老龍王肌肉
 怪物素材,3995,古龍種稀玉,古龍種の稀玉,Elder Dragon Gem,長老龍王宝石
@@ -720,7 +720,7 @@
 怪物素材,10591,創音龍之翼,創音竜の翼,Poborubarumu Wing,爆鍾獸之翼
 怪物素材,10592,創音龍發音袋,創音竜の発音袋,Poboru. Song Sac,波博音樂Sac
 怪物素材,10637,炎妃龍絶鱗,炎妃龍の絶鱗,Lunastra Pwr.Scl,炎妃強力鱗
-怪物素材,10638,炎妃龍絶殼,炎妃龍の絶殻,Lunastra Pwr.Shl,炎妃強力盾甲
+怪物素材,10638,炎妃龍絶殻,炎妃龍の絶殻,Lunastra Pwr.Shl,炎妃強力盾甲
 怪物素材,10639,炎妃龍貴翼,炎妃龍の貴翼,Luna. Noble Wing,炎妃高貴之翼
 怪物素材,10640,炎妃龍冠鬣,炎妃龍の冠鬣,Lunastra Crown Mane,炎妃王冠Mane
 怪物素材,10641,幻影龍寶藏,幻の龍秘宝,Phantom Drgn Trsr,幻影龍宝藏
@@ -734,11 +734,11 @@
 怪物素材,10649,晶龍縞瑪瑙,晶竜の縞瑪瑙,Kuaru. Stripestone,輝龍条紋石頭
 怪物素材,10650,晶龍虹瑪瑙,晶竜の虹瑪瑙,Kuaru. Rainbow Gem,輝龍彩虹石頭
 怪物素材,10651,晶龍兩錐水晶,晶竜の両錐水晶,Kuaru. Prismastone,KuaruDimndPrsmCrystl
-怪物素材,10652,蒼雄火龍至殼,蒼火竜の至殻,A. Rath Supreme Shl,A火龍至高盾甲
-怪物素材,10653,蒼雄火龍至鱗,蒼火竜の至鱗,A. Rath Supr Scle,A火龍至高鱗
-怪物素材,10654,蒼雄火龍秘髓,蒼火竜の秘髄,A. Rath Deep Marrow,A火龍深渊骨髓
-怪物素材,10655,蒼雄火龍血色珠,蒼火竜の血色珠,S. Rath Bloodgem,S火龍血玉
-怪物素材,10656,蒼雄火龍榮鱗,蒼火竜の栄鱗,A. Rath Glory Scale,A火龍榮耀鱗片
+怪物素材,10652,蒼火龍至殼,蒼火竜の至殻,A. Rath Supreme Shl,A火龍至高盾甲
+怪物素材,10653,蒼火龍至鱗,蒼火竜の至鱗,A. Rath Supr Scle,A火龍至高鱗
+怪物素材,10654,蒼火龍秘髄,蒼火竜の秘髄,A. Rath Deep Marrow,A火龍深渊骨髓
+怪物素材,10655,蒼火龍血色珠,蒼火竜の血色珠,S. Rath Bloodgem,S火龍血玉
+怪物素材,10656,蒼火龍榮鱗,蒼火竜の栄鱗,A. Rath Glory Scale,A火龍榮耀鱗片
 怪物素材,10657,櫻火龍壯殼,桜火竜の壮殻,P. Rath Olden Shl,P.火龍古代盾甲
 怪物素材,10658,櫻火龍壯鱗,桜火竜の壮鱗,P. Rath Olden Scle,P.火龍古代鱗
 怪物素材,10659,櫻火龍貫棘,桜火竜の貫棘,P. Rath Great Spike,P.火龍偉大刺釘
@@ -913,7 +913,7 @@
 生物素材,200,（未译）,ドキドキノコ,Exciteshroom,興奮菇
 生物素材,201,（未译）,マンドラゴラ,Dragon Toadstool,龍王毒傘
 生物素材,202,辛辣茸,特産キノコキムチ,Spicy Mushroom,辛辣Mushroom
-生物素材,203,（未译）,ゲキレツ毒テング,Deadly Mushroom,憤怒劇毒之口
+生物素材,203,激烈毒天狗,ゲキレツ毒テング,Deadly Mushroom,憤怒劇毒之口
 生物素材,204,（未译）,七色たんぽぽ,Rainbow Dandelion,稜鏡蒲公英
 生物素材,205,（未译）,ペイントの実,Paintberry,彩虹果
 生物素材,206,怪力種子,怪力の種,Might Seed,力量種子
@@ -965,7 +965,7 @@
 生物素材,670,（未译）,飛竜の卵,Wyvern Egg,飛龍蛋
 生物素材,671,（未译）,草食竜の卵,Herbivore Egg,草食獸蛋
 生物素材,672,（未译）,肉食竜の卵,Carnivore Egg,食肉蛋
-生物素材,676,（未译）,フルフルベビー,Khezu Whelp,電龍幼獸
+生物素材,676,電龍幼獸,フルフルベビー,Khezu Whelp,電龍幼獸
 生物素材,923,（未译）,春夜鯉,Springnight Carp,月神春風鯉魚
 生物素材,924,（未译）,セッチャクロアリ,Carpenterbug,大木桶
 生物素材,925,彩虹昆蟲,虹色コガネ,Rainbow Insect,彩虹昆虫
@@ -1089,7 +1089,7 @@
 食品药品,20,硬化藥丸,忍耐の丸薬,Adamant Pill,鎧甲藥丸
 食品药品,21,冷飲,クーラードリンク,Cool Drink,清凉飲品
 食品药品,22,熱飲,ホットドリンク,Hot Drink,熱飲品
-食品药品,23,（未译）,千里眼の薬,Psychoserum,千里眼藥
+食品药品,23,千里眼藥,千里眼の薬,Psychoserum,千里眼藥
 食品药品,26,藥草,漢方薬,Herbal Medicine,草藥藥物
 食品药品,27,秘藥,秘薬,Max Potion,最大藥水
 食品药品,28,古老的秘藥,いにしえの秘薬,Ancient Potion,古代藥水
@@ -1305,7 +1305,7 @@
 书籍票券硬币,1530,（未译）,祭典の思い出,Festi Memories,慶典回憶
 书籍票券硬币,1612,（未译）,ＶＳ．チケット,VS. Ticket,對戰門票
 书籍票券硬币,1662,剛券,剛種チケット,Goushu Ticket,剛Tkt
-书籍票券硬币,1663,（未译）,炎王龍討伐の証,Teostra Proof,炎王證明
+书籍票券硬币,1663,炎王龍討伐之證,炎王龍討伐の証,Teostra Proof,炎王證明
 书籍票券硬币,1664,舞雷龍證明,舞雷竜討伐の証,Beru Proof,貝魯證明
 书籍票券硬币,1691,（未译）,イベント補助券,Event Assist Tkt,活動支持券
 书籍票券硬币,1793,（未译）,霞龍討伐の証,Chameleos Proof,霞龍證明
@@ -2176,11 +2176,11 @@
 辅助道具,131,染色彈,ペイント弾,Paint S,染色S
 辅助道具,132,鬼人彈,鬼人弾,Demon S,惡魔S
 辅助道具,133,硬化彈,硬化弾,Armor S,鎧甲S
-辅助道具,136,（未译）,空きビン,Empty Bottle,空虚瓶子
-辅助道具,137,（未译）,強撃ビン,Power Coating,力量塗層
-辅助道具,138,（未译）,毒ビン,Poison Coating,劇毒塗層
-辅助道具,139,麻痺塗層,麻痺ビン,Para Coating,Para塗層
-辅助道具,140,（未译）,睡眠ビン,Sleep Coating,睡眠塗層
+辅助道具,136,空瓶,空きビン,Empty Bottle,空虚瓶子
+辅助道具,137,強撃瓶,強撃ビン,Power Coating,力量塗層
+辅助道具,138,毒瓶,毒ビン,Poison Coating,劇毒塗層
+辅助道具,139,麻痺瓶,麻痺ビン,Para Coating,Para塗層
+辅助道具,140,睡眠瓶,睡眠ビン,Sleep Coating,睡眠塗層
 辅助道具,146,（未译）,マグダンゴ,Tuna Bait,金槍誘餌
 辅助道具,147,（未译）,アロダンゴ,Arowana Bait,龍魚誘餌
 辅助道具,148,（未译）,黄金ダンゴ,Goldenfish Bait,黄金魚誘餌
@@ -2208,10 +2208,10 @@
 辅助道具,173,（未译）,双眼鏡,Binoculars,望遠鏡
 辅助道具,174,不可燃廢料,もえないゴミ,Garbage,Garbage
 辅助道具,175,（未译）,角笛,Flute,笛
-辅助道具,176,（未译）,回復笛,Health Flute,健康笛
+辅助道具,176,回復笛,回復笛,Health Flute,健康笛
 辅助道具,177,（未译）,解毒笛,Antidote Flute,解毒笛
-辅助道具,178,（未译）,鬼人笛,Demon Flute,惡魔笛
-辅助道具,179,（未译）,硬化笛,Armor Flute,鎧甲笛
+辅助道具,178,鬼人笛,鬼人笛,Demon Flute,惡魔笛
+辅助道具,179,硬化笛,硬化笛,Armor Flute,鎧甲笛
 辅助道具,657,地圖,地図,Map,Map
 辅助道具,659,便攜食料,携帯食料,Ration,焼熟肉
 辅助道具,660,攜帶唾液,携帯肉焼きセット,Portable Spit,便携唾液
@@ -2299,7 +2299,7 @@
 辅助道具,1510,（未译）,爆雷針Ｇ,Lightningrod G,避雷針G
 辅助道具,1512,（未译）,支給用投げタル,EZ Throwing Bomb,供應投擲炸彈
 辅助道具,1513,（未译）,支給用Ｇ２,EZ LgBarrelBombG2,補給大爆彈G2
-辅助道具,1579,（未译）,爆撃ビン,Explosive Coating,爆炸塗層
+辅助道具,1579,爆撃瓶,爆撃ビン,Explosive Coating,爆炸塗層
 辅助道具,1685,專家砥石,会心の砥石,Affinity Whetstone,專家磨刀石
 辅助道具,1686,（未译）,鷹の目ドリンク,Hawkeye Drink,鷹眼飲品
 辅助道具,1687,（未译）,瞬歩の実,Move Speed Fruit,移動速度果實
@@ -2309,7 +2309,7 @@
 辅助道具,1791,蟲網G,虫あみＧ改,Bugnet G,虫网G
 辅助道具,1792,硝化藥,ニトロ薬,Nitro Drug,0007・ニトロ薬
 辅助道具,1794,呑龍證明,呑竜討伐の証,Paria Proof,巴利亞證明
-辅助道具,2212,衝撃塗層,打撃ビン,Impact Coating,冲撃塗層
+辅助道具,2212,打撃瓶,打撃ビン,Impact Coating,冲撃塗層
 辅助道具,4393,猫氣球哨笛,ネコ気球笛,Cat Balloon Flute,Cat气球哨笛
 辅助道具,4394,猫弩砲,ネコバリスタ,Cat Ballista,Cat弩炮
 辅助道具,4395,（未译）,地中用音爆弾,EZ Sonic Bomb,地下音速炸彈
@@ -2352,8 +2352,8 @@
 辅助道具,10684,（未译）,小型角笛,Small horn,小角
 辅助道具,10685,T.砥石,軽量砥石,T. Whetstones,T.磨刀石
 辅助道具,10686,T.快速砥石,軽量高速砥石,T. Fast Whetstone,T.快速磨刀石
-辅助道具,10687,（未译）,密閉強撃ビン,T. Power Coating,T.力量塗層
-辅助道具,10688,（未译）,密閉毒ビン,T. Poison Coating,T.劇毒塗層
+辅助道具,10687,密閉強撃瓶,密閉強撃ビン,T. Power Coating,T.力量塗層
+辅助道具,10688,密閉毒瓶,密閉毒ビン,T. Poison Coating,T.劇毒塗層
 辅助道具,10689,T.通常彈LV2,備蓄LV2 通常弾,T. Normal S LV2,T.普通SLV2
 辅助道具,10690,T.通常彈LV3,備蓄LV3 通常弾,T. Normal S LV3,T.普通SLV3
 辅助道具,10691,T.貫通彈LV1,備蓄LV1 貫通弾,T. Pierce S LV1,T.貫通SLV1
@@ -2488,7 +2488,7 @@
 其他物品,15449,鷲魂岩,鷲魂岩,,593C・鷲魂岩
 其他物品,15450,藤魂石,藤魂石,,5A3C・藤魂石
 其他物品,15451,≪潮島財寶≫,潮島の財宝,,≪潮島財宝≫
-其他物品,15454,≪青紫瓶≫,青紫色のビン,,≪青紫瓶≫≪
+其他物品,15454,青紫瓶,青紫色のビン,,≪青紫瓶≫≪
 其他物品,15455,不可思議塗料,不思議な塗料,,不可思議塗料≫
 其他物品,15528,遺失物體,誰かの落し物,Lost Object,遺失物体
 其他物品,15529,（未译）,アツアツミート,Piping Hot Meat,滾邊熱肉
@@ -2503,127 +2503,127 @@
 其他物品,16512,（未译）,獏魂岩,Tapir Soul Stone,貘之魂石頭
 其他物品,16513,（未译）,螺魂岩,Shrimp Soul Stone,貝殼之魂石頭
 其他物品,16514,（未译）,蟹魂岩,Crab Soul Stone,蟹之魂石頭
-装饰品,799,麻痺1裝飾,耐麻痺珠,Paralysis 1 Deco,Paralysis1装飾
-装饰品,800,睡眠1裝飾,耐眠珠,Sleep 1 Deco,睡眠1装飾
-装饰品,801,睡眠2裝飾,絶眠珠,Sleep 2 Deco,睡眠2装飾
-装饰品,802,眩暈1裝飾,耐絶珠,Stun 1 Deco,眩暈1装飾
-装饰品,803,劇毒1裝飾,抗毒珠,Poison 1 Deco,劇毒1装飾
-装饰品,804,除臭劑1裝飾,抗力珠,Deoderant 1 Deco,除臭劑1装飾
-装饰品,805,除臭劑2裝飾,抗菌珠,Deoderant 2 Deco,除臭劑2装飾
-装饰品,806,雪球裝飾,雪玉珠,Snowball Deco,雪球装飾
-装饰品,807,震動裝飾,強腰珠,Quake Deco,震動装飾
-装饰品,808,聲樂和弦裝飾,美声珠,Vocal Chords Deco,声樂和弦装飾
-装饰品,809,熱1裝飾,涼風珠,Heat 1 Deco,熱1装飾
-装饰品,810,寒冷1裝飾,温風珠,Cold 1 Deco,寒冷1装飾
-装饰品,811,風壓制1裝飾,文鎮珠,Wind Pres.1 Deco,風壓制1装飾
-装饰品,812,地形裝飾,旅人珠,Terrain Deco,地形装飾
-装饰品,813,健康1裝飾,元気珠,Health 1 Deco,健康1装飾
-装饰品,814,健康2裝飾,体力珠,Health 2 Deco,健康2装飾
-装饰品,815,恢復裝飾,治癒珠,Recovery Deco,恢復装飾
-装饰品,816,回復速度1裝飾,回復珠,Rec Speed 1 Deco,回復速度1装飾
-装饰品,817,攻撃1裝飾,腕力珠,Attack 1 Deco,攻撃1装飾
-装饰品,818,状態攻撃裝飾,属攻珠,Status Attack Deco,状態攻撃装飾
-装饰品,819,防御1裝飾,守護珠,Defense 1 Deco,防御1装飾
-装饰品,820,1裝飾腕甲,鉄壁珠,Guard 1 Deco,1装飾臂甲
-装饰品,821,自動防御裝飾,天盾珠,Auto-Guard Deco,自動防御装飾
-装饰品,822,耐力裝飾,強精珠,Stamina Deco,耐力装飾
-装饰品,823,飢餓裝飾,満腹珠,Hunger Deco,飢餓装飾
-装饰品,824,暴食裝飾,食漢珠,Gluttony Deco,暴食装飾
-装饰品,825,進食裝飾,気短珠,Eating Deco,進食装飾
-装饰品,826,斬味1裝飾,斬鉄珠,Sharpness 1 Deco,斬味1装飾
-装饰品,827,匠裝飾,匠珠,Artisan Deco,匠装飾
-装饰品,828,專家1裝飾,達人珠,Expert 1 Deco,專家1装飾
-装饰品,829,投擲1裝飾,力投珠,Throwing 1 Deco,投擲1装飾
-装饰品,830,回避1裝飾,軽足珠,Evasion 1 Deco,回避1装飾
-装饰品,831,調和裝飾,博士珠,Combining Deco,調和装飾
-装饰品,832,彈藥組合裝飾,弾製珠,Ammo Combo Deco,彈藥組合装飾
-装饰品,833,煉金裝飾,秘術珠,Alchemy Deco,煉金装飾
-装饰品,834,裝填裝飾,装填珠,Reload Deco,装填装飾
-装饰品,835,裝填裝飾,弾穴珠,Loading Deco,装填装飾
-装饰品,836,反動1裝飾,抑反珠,Recoil 1 Deco,反動1装飾
-装饰品,837,精密裝飾,針穴珠,Precision Deco,精密装飾
-装饰品,838,普通提升裝飾,強弾珠,Normal Up Deco,普通提升装飾
-装饰品,839,貫通提升裝飾,貫通珠,Pierce Up Deco,貫通提升装飾
-装饰品,840,散彈提升裝飾,散弾珠,Pellet Up Deco,散彈提升装飾
-装饰品,841,普通附加1裝飾,加弾珠,Normal Add 1 Deco,普通附加1装飾
-装饰品,842,貫通附加1裝飾,加貫珠,Pierce Add 1 Deco,貫通附加1装飾
-装饰品,843,散彈附加1裝飾,加散珠,Pellet Add 1 Deco,散彈附加1装飾
-装饰品,844,岩壁附加1裝飾,加榴珠,Crag Add 1 Deco,岩壁附加1装飾
-装饰品,845,擴散附加1裝飾,加拡珠,Clust Add 1 Deco,擴散附加1装飾
-装饰品,846,研磨裝飾,研磨珠,Sharpening Deco,研磨装飾
-装饰品,848,料理裝飾,美食珠,Cooking Deco,Cooking装飾
-装饰品,849,聽覺裝飾,防音珠,Hearing Deco,听覺装飾
-装饰品,850,廣域1裝飾,友愛珠,Wide-Area 1 Deco,广域1装飾
-装饰品,851,永恒1裝飾,持続珠,Everlasting 1 Deco,永恒1装飾
-装饰品,852,背包1裝飾,快足珠,Backpacking 1 Deco,背包1装飾
-装饰品,853,全裝飾UP珠2,耐性珠,All UP 2 Deco,全2装飾UP
-装饰品,854,烈火1裝飾,火炎珠,Fire 1 Deco,烈火1装飾
-装饰品,855,流水1裝飾,流水珠,Water 1 Deco,流水1装飾
-装饰品,856,冰凍1裝飾,氷珠,Ice 1 Deco,冰凍1装飾
-装饰品,857,雷鳴1裝飾,雷光珠,Thunder 1 Deco,雷鳴1装飾
-装饰品,858,龍王1裝飾,破龍珠,Dragon 1 Deco,龍王1装飾
-装饰品,859,集會1裝飾,百手珠,Gathering 1 Deco,集会1装飾
-装饰品,860,集會2裝飾,千手珠,Gathering 2 Deco,集会2装飾
-装饰品,861,集會速度裝飾,早手珠,Gather Speed Deco,集会速度装飾
-装饰品,862,剥取1裝飾,皮剥珠,Carving 1 Deco,剥取1装飾
-装饰品,863,祝福1裝飾,祝珠,Blessing 1 Deco,祝福1装飾
-装饰品,864,祝福2裝飾,祝福珠,Blessing 2 Deco,祝福2装飾
-装饰品,865,保護裝飾,天力珠,Protection Deco,保護装飾
-装饰品,866,命運1裝飾,宝珠,Fate 1 Deco,命運1装飾
-装饰品,867,防盜裝飾,鍵珠,Anti-Theft Deco,防盗装飾
-装饰品,868,釣魚裝飾,釣力珠,Fishing Deco,釣魚装飾
-装饰品,869,地圖裝飾,鋭眼珠,Map Deco,地圖装飾
-装饰品,870,通靈1裝飾,透眼珠,Psychic 1 Deco,通靈1装飾
-装饰品,871,隱秘裝飾,忍脚珠,Stealth Deco,隱秘装飾
-装饰品,872,腎上腺裝飾,危機珠,Adrenaline Deco,腎上腺装飾
-装饰品,873,魔物裝飾,巨獣珠,Monster Deco,怪物装飾
-装饰品,874,麻痺2裝飾,抗麻痺珠,Paralysis 2 Deco,Paralysis2装飾
-装饰品,875,眩暈2裝飾,抗絶珠,Stun 2 Deco,眩暈2装飾
-装饰品,876,眩暈3裝飾,覚醒珠,Stun 3 Deco,眩暈3装飾
-装饰品,877,劇毒2裝飾,断毒珠,Poison 2 Deco,劇毒2装飾
-装饰品,878,熱2裝飾,冷風珠,Heat 2 Deco,熱2装飾
-装饰品,879,寒冷2裝飾,暖風珠,Cold 2 Deco,寒冷2装飾
-装饰品,880,風壓制2裝飾,重塊珠,Wind Pres. 2 Deco,風壓制2装飾
-装饰品,881,健康3裝飾,覇力珠,Health 3 Deco,健康3装飾
-装饰品,882,回復速度2裝飾,快復珠,Rec Speed 2 Deco,回復速度2装飾
-装饰品,883,攻撃2裝飾,怪力珠,Attack 2 Deco,攻撃2装飾
-装饰品,884,防御3裝飾,防御珠,Defense 3 Deco,防御3装飾
-装饰品,885,斬味2裝飾,斬空珠,Sharpness 2 Deco,斬味2装飾
-装饰品,886,專家2裝飾,仙人珠,Expert 2 Deco,專家2装飾
-装饰品,887,回避2裝飾,神足珠,Evasion 2 Deco,回避2装飾
-装饰品,888,反動2裝飾,反動珠,Recoil 2 Deco,反動2装飾
-装饰品,889,普通附加2裝飾,増弾珠,Normal Add 2 Deco,普通附加2装飾
-装饰品,890,貫通附加2裝飾,増貫珠,Pierce Add 2 Deco,貫通附加2装飾
-装饰品,891,散彈附加2裝飾,増散珠,Pellet Add 2 Deco,散彈附加2装飾
-装饰品,892,岩壁附加2裝飾,増榴珠,Crag Add 2 Deco,岩壁附加2装飾
-装饰品,893,擴散附加2裝飾,増拡珠,Clust Add 2 Deco,擴散附加2装飾
-装饰品,894,炸彈強化裝飾,爆師珠,Bomb Boost Deco,炸彈強化装飾
-装饰品,895,砲術裝飾,大砲珠,Gunnery Deco,炮術装飾
-装饰品,896,廣域2裝飾,友情珠,Wide-Area 2 Deco,广域2装飾
-装饰品,897,永恒2裝飾,恒久珠,Everlasting 2 Deco,永恒2装飾
-装饰品,898,背包2裝飾,快速珠,Backpacking 2 Deco,背包2装飾
-装饰品,899,全裝飾UP珠3,万耐珠,All UP 3 Deco,全3装飾UP
-装饰品,900,烈火2裝飾,紅蓮珠,Fire 2 Deco,烈火2装飾
-装饰品,901,流水2裝飾,爆水珠,Water 2 Deco,流水2装飾
-装饰品,902,冰凍2裝飾,氷河珠,Ice 2 Deco,冰凍2装飾
-装饰品,903,雷鳴2裝飾,雷鳴珠,Thunder 2 Deco,雷鳴2装飾
-装饰品,904,龍王2裝飾,滅龍珠,Dragon 2 Deco,龍王2装飾
-装饰品,905,集會3裝飾,万手珠,Gathering 3 Deco,集会3装飾
-装饰品,906,集會速度裝飾,速手珠,Gather Spd 2 Deco,集会速度装飾
-装饰品,907,剥取2裝飾,獣剥珠,Carving 2 Deco,剥取2装飾
-装饰品,908,命運2裝飾,報珠,Fate 2 Deco,命運2装飾
-装饰品,909,通靈2裝飾,千里珠,Psychic 2 Deco,通靈2装飾
-装饰品,910,畫廊攻撃裝飾,剛力珠,Gallery Atk Deco,画廊攻撃装飾
-装饰品,911,防御2裝飾,剛体珠,Gallery Def Deco,防御2装飾
-装饰品,912,2裝飾腕甲,天壁珠,Guard 2 Deco,2装飾臂甲
-装饰品,913,耳栓裝飾,音無珠,Earplugs Deco,耳栓装飾
-装饰品,914,全裝飾UP珠1,天耐珠,All UP 1 Deco,全1装飾UP
-装饰品,915,烈火3裝飾,獄炎珠,Fire 3 Deco,烈火3装飾
-装饰品,916,流水3裝飾,水鬼珠,Water 3 Deco,流水3装飾
-装饰品,917,冰凍3裝飾,永氷珠,Ice 3 Deco,冰凍3装飾
-装饰品,918,雷鳴3裝飾,雷神珠,Thunder 3 Deco,雷鳴3装飾
-装饰品,919,龍王3裝飾,龍王珠,Dragon 3 Deco,龍王3装飾
-装饰品,920,通靈3裝飾,万里珠,Psychic 3 Deco,通靈3装飾
+装饰品,799,耐麻痺珠,耐麻痺珠,Paralysis 1 Deco,Paralysis1装飾
+装饰品,800,耐眠珠,耐眠珠,Sleep 1 Deco,睡眠1装飾
+装饰品,801,絶眠珠,絶眠珠,Sleep 2 Deco,睡眠2装飾
+装饰品,802,耐絶珠,耐絶珠,Stun 1 Deco,眩暈1装飾
+装饰品,803,抗毒珠,抗毒珠,Poison 1 Deco,劇毒1装飾
+装饰品,804,抗力珠,抗力珠,Deoderant 1 Deco,除臭劑1装飾
+装饰品,805,抗菌珠,抗菌珠,Deoderant 2 Deco,除臭劑2装飾
+装饰品,806,雪玉珠,雪玉珠,Snowball Deco,雪球装飾
+装饰品,807,強腰珠,強腰珠,Quake Deco,震動装飾
+装饰品,808,美声珠,美声珠,Vocal Chords Deco,声樂和弦装飾
+装饰品,809,涼風珠,涼風珠,Heat 1 Deco,熱1装飾
+装饰品,810,温風珠,温風珠,Cold 1 Deco,寒冷1装飾
+装饰品,811,文鎮珠,文鎮珠,Wind Pres.1 Deco,風壓制1装飾
+装饰品,812,旅人珠,旅人珠,Terrain Deco,地形装飾
+装饰品,813,元気珠,元気珠,Health 1 Deco,健康1装飾
+装饰品,814,体力珠,体力珠,Health 2 Deco,健康2装飾
+装饰品,815,治癒珠,治癒珠,Recovery Deco,恢復装飾
+装饰品,816,回復珠,回復珠,Rec Speed 1 Deco,回復速度1装飾
+装饰品,817,腕力珠,腕力珠,Attack 1 Deco,攻撃1装飾
+装饰品,818,属攻珠,属攻珠,Status Attack Deco,状態攻撃装飾
+装饰品,819,守護珠,守護珠,Defense 1 Deco,防御1装飾
+装饰品,820,鉄壁珠,鉄壁珠,Guard 1 Deco,1装飾臂甲
+装饰品,821,天盾珠,天盾珠,Auto-Guard Deco,自動防御装飾
+装饰品,822,強精珠,強精珠,Stamina Deco,耐力装飾
+装饰品,823,満腹珠,満腹珠,Hunger Deco,飢餓装飾
+装饰品,824,食漢珠,食漢珠,Gluttony Deco,暴食装飾
+装饰品,825,気短珠,気短珠,Eating Deco,進食装飾
+装饰品,826,斬鉄珠,斬鉄珠,Sharpness 1 Deco,斬味1装飾
+装饰品,827,匠珠,匠珠,Artisan Deco,匠装飾
+装饰品,828,達人珠,達人珠,Expert 1 Deco,專家1装飾
+装饰品,829,力投珠,力投珠,Throwing 1 Deco,投擲1装飾
+装饰品,830,軽足珠,軽足珠,Evasion 1 Deco,回避1装飾
+装饰品,831,博士珠,博士珠,Combining Deco,調和装飾
+装饰品,832,弾製珠,弾製珠,Ammo Combo Deco,彈藥組合装飾
+装饰品,833,秘術珠,秘術珠,Alchemy Deco,煉金装飾
+装饰品,834,装填珠,装填珠,Reload Deco,装填装飾
+装饰品,835,弾穴珠,弾穴珠,Loading Deco,装填装飾
+装饰品,836,抑反珠,抑反珠,Recoil 1 Deco,反動1装飾
+装饰品,837,針穴珠,針穴珠,Precision Deco,精密装飾
+装饰品,838,強弾珠,強弾珠,Normal Up Deco,普通提升装飾
+装饰品,839,貫通珠,貫通珠,Pierce Up Deco,貫通提升装飾
+装饰品,840,散弾珠,散弾珠,Pellet Up Deco,散彈提升装飾
+装饰品,841,加弾珠,加弾珠,Normal Add 1 Deco,普通附加1装飾
+装饰品,842,加貫珠,加貫珠,Pierce Add 1 Deco,貫通附加1装飾
+装饰品,843,加散珠,加散珠,Pellet Add 1 Deco,散彈附加1装飾
+装饰品,844,加榴珠,加榴珠,Crag Add 1 Deco,岩壁附加1装飾
+装饰品,845,加拡珠,加拡珠,Clust Add 1 Deco,擴散附加1装飾
+装饰品,846,研磨珠,研磨珠,Sharpening Deco,研磨装飾
+装饰品,848,美食珠,美食珠,Cooking Deco,Cooking装飾
+装饰品,849,防音珠,防音珠,Hearing Deco,听覺装飾
+装饰品,850,友愛珠,友愛珠,Wide-Area 1 Deco,广域1装飾
+装饰品,851,持続珠,持続珠,Everlasting 1 Deco,永恒1装飾
+装饰品,852,快足珠,快足珠,Backpacking 1 Deco,背包1装飾
+装饰品,853,耐性珠,耐性珠,All UP 2 Deco,全2装飾UP
+装饰品,854,火炎珠,火炎珠,Fire 1 Deco,烈火1装飾
+装饰品,855,流水珠,流水珠,Water 1 Deco,流水1装飾
+装饰品,856,氷珠,氷珠,Ice 1 Deco,冰凍1装飾
+装饰品,857,雷光珠,雷光珠,Thunder 1 Deco,雷鳴1装飾
+装饰品,858,破龍珠,破龍珠,Dragon 1 Deco,龍王1装飾
+装饰品,859,百手珠,百手珠,Gathering 1 Deco,集会1装飾
+装饰品,860,千手珠,千手珠,Gathering 2 Deco,集会2装飾
+装饰品,861,早手珠,早手珠,Gather Speed Deco,集会速度装飾
+装饰品,862,皮剥珠,皮剥珠,Carving 1 Deco,剥取1装飾
+装饰品,863,祝珠,祝珠,Blessing 1 Deco,祝福1装飾
+装饰品,864,祝福珠,祝福珠,Blessing 2 Deco,祝福2装飾
+装饰品,865,天力珠,天力珠,Protection Deco,保護装飾
+装饰品,866,宝珠,宝珠,Fate 1 Deco,命運1装飾
+装饰品,867,鍵珠,鍵珠,Anti-Theft Deco,防盗装飾
+装饰品,868,釣力珠,釣力珠,Fishing Deco,釣魚装飾
+装饰品,869,鋭眼珠,鋭眼珠,Map Deco,地圖装飾
+装饰品,870,透眼珠,透眼珠,Psychic 1 Deco,通靈1装飾
+装饰品,871,忍脚珠,忍脚珠,Stealth Deco,隱秘装飾
+装饰品,872,危機珠,危機珠,Adrenaline Deco,腎上腺装飾
+装饰品,873,巨獣珠,巨獣珠,Monster Deco,怪物装飾
+装饰品,874,抗麻痺珠,抗麻痺珠,Paralysis 2 Deco,Paralysis2装飾
+装饰品,875,抗絶珠,抗絶珠,Stun 2 Deco,眩暈2装飾
+装饰品,876,覚醒珠,覚醒珠,Stun 3 Deco,眩暈3装飾
+装饰品,877,断毒珠,断毒珠,Poison 2 Deco,劇毒2装飾
+装饰品,878,冷風珠,冷風珠,Heat 2 Deco,熱2装飾
+装饰品,879,暖風珠,暖風珠,Cold 2 Deco,寒冷2装飾
+装饰品,880,重塊珠,重塊珠,Wind Pres. 2 Deco,風壓制2装飾
+装饰品,881,覇力珠,覇力珠,Health 3 Deco,健康3装飾
+装饰品,882,快復珠,快復珠,Rec Speed 2 Deco,回復速度2装飾
+装饰品,883,怪力珠,怪力珠,Attack 2 Deco,攻撃2装飾
+装饰品,884,防御珠,防御珠,Defense 3 Deco,防御3装飾
+装饰品,885,斬空珠,斬空珠,Sharpness 2 Deco,斬味2装飾
+装饰品,886,仙人珠,仙人珠,Expert 2 Deco,專家2装飾
+装饰品,887,神足珠,神足珠,Evasion 2 Deco,回避2装飾
+装饰品,888,反動珠,反動珠,Recoil 2 Deco,反動2装飾
+装饰品,889,増弾珠,増弾珠,Normal Add 2 Deco,普通附加2装飾
+装饰品,890,増貫珠,増貫珠,Pierce Add 2 Deco,貫通附加2装飾
+装饰品,891,増散珠,増散珠,Pellet Add 2 Deco,散彈附加2装飾
+装饰品,892,増榴珠,増榴珠,Crag Add 2 Deco,岩壁附加2装飾
+装饰品,893,増拡珠,増拡珠,Clust Add 2 Deco,擴散附加2装飾
+装饰品,894,爆師珠,爆師珠,Bomb Boost Deco,炸彈強化装飾
+装饰品,895,大砲珠,大砲珠,Gunnery Deco,炮術装飾
+装饰品,896,友情珠,友情珠,Wide-Area 2 Deco,广域2装飾
+装饰品,897,恒久珠,恒久珠,Everlasting 2 Deco,永恒2装飾
+装饰品,898,快速珠,快速珠,Backpacking 2 Deco,背包2装飾
+装饰品,899,万耐珠,万耐珠,All UP 3 Deco,全3装飾UP
+装饰品,900,紅蓮珠,紅蓮珠,Fire 2 Deco,烈火2装飾
+装饰品,901,爆水珠,爆水珠,Water 2 Deco,流水2装飾
+装饰品,902,氷河珠,氷河珠,Ice 2 Deco,冰凍2装飾
+装饰品,903,雷鳴珠,雷鳴珠,Thunder 2 Deco,雷鳴2装飾
+装饰品,904,滅龍珠,滅龍珠,Dragon 2 Deco,龍王2装飾
+装饰品,905,万手珠,万手珠,Gathering 3 Deco,集会3装飾
+装饰品,906,速手珠,速手珠,Gather Spd 2 Deco,集会速度装飾
+装饰品,907,獣剥珠,獣剥珠,Carving 2 Deco,剥取2装飾
+装饰品,908,報珠,報珠,Fate 2 Deco,命運2装飾
+装饰品,909,千里珠,千里珠,Psychic 2 Deco,通靈2装飾
+装饰品,910,剛力珠,剛力珠,Gallery Atk Deco,画廊攻撃装飾
+装饰品,911,剛体珠,剛体珠,Gallery Def Deco,防御2装飾
+装饰品,912,天壁珠,天壁珠,Guard 2 Deco,2装飾臂甲
+装饰品,913,音無珠,音無珠,Earplugs Deco,耳栓装飾
+装饰品,914,天耐珠,天耐珠,All UP 1 Deco,全1装飾UP
+装饰品,915,獄炎珠,獄炎珠,Fire 3 Deco,烈火3装飾
+装饰品,916,水鬼珠,水鬼珠,Water 3 Deco,流水3装飾
+装饰品,917,永氷珠,永氷珠,Ice 3 Deco,冰凍3装飾
+装饰品,918,雷神珠,雷神珠,Thunder 3 Deco,雷鳴3装飾
+装饰品,919,龍王珠,龍王珠,Dragon 3 Deco,龍王3装飾
+装饰品,920,万里珠,万里珠,Psychic 3 Deco,通靈3装飾
 装饰品,1104,匠珠SP,匠珠ＳＰ,Artisan SP,匠SP
 装饰品,1105,反動珠SP,抑反珠ＳＰ,Recoil SP,反動SP
 装饰品,1106,強襲珠SP,腕力珠ＳＰ,Assault SP,強襲SP
@@ -4136,16 +4136,16 @@
 装饰品,5100,（未译）,腕力珠Ｇ,Attack G,攻撃G
 装饰品,5101,（未译）,気短珠Ｇ,Eating 1 G,進食1G
 装饰品,5102,（未译）,研磨珠Ｇ,Sharpening G,研磨G
-装饰品,5103,聚精裝飾,集中珠,Focus Deco,聚精装飾
-装饰品,5104,羈絆裝飾,絆珠,Bond Deco,羈絆装飾
-装饰品,5105,捕獲裝飾,捕獲珠,Capture Deco,捕獲装飾
-装饰品,5106,被動裝飾,受身珠,Passive Deco,被動装飾
-装饰品,5107,笛專家裝飾,笛吹珠,Flute Expert Deco,笛專家装飾
-装饰品,5108,陷井師裝飾,罠師珠,Trapper Deco,罠師装飾
-装饰品,5109,壓制裝飾,交渉珠,Pressure Deco,壓制装飾
-装饰品,5424,投擲2裝飾,投剣珠,Throwing 2 Deco,投擲2装飾
-装饰品,5425,關懷裝飾,慰労珠,Caring Deco,關懷装飾
-装饰品,5426,防御鎖定裝飾,対防珠,Def Lock Deco,防御鎖定装飾
+装饰品,5103,集中珠,集中珠,Focus Deco,聚精装飾
+装饰品,5104,絆珠,絆珠,Bond Deco,羈絆装飾
+装饰品,5105,捕獲珠,捕獲珠,Capture Deco,捕獲装飾
+装饰品,5106,受身珠,受身珠,Passive Deco,被動装飾
+装饰品,5107,笛吹珠,笛吹珠,Flute Expert Deco,笛專家装飾
+装饰品,5108,罠師珠,罠師珠,Trapper Deco,罠師装飾
+装饰品,5109,交渉珠,交渉珠,Pressure Deco,壓制装飾
+装饰品,5424,投剣珠,投剣珠,Throwing 2 Deco,投擲2装飾
+装饰品,5425,慰労珠,慰労珠,Caring Deco,關懷装飾
+装饰品,5426,対防珠,対防珠,Def Lock Deco,防御鎖定装飾
 装饰品,5427,武器操控護石IIPA1,武捌カフⅡＰＡ１,W.Handling Ⅱ PA1,武器操控IIPA1
 装饰品,5428,武器操控護石IIPA2,武捌カフⅡＰＡ２,W.Handling Ⅱ PA2,武器操控IIPA2
 装饰品,5429,屬性攻撃護石IIPA1,属攻カフⅡＰＡ１,Ele Attack Ⅱ PA1,属性攻撃IIPA1
@@ -4430,7 +4430,7 @@
 装饰品,6518,黒色角龍射珠GX3,アース射珠GX3,B.Diablos GN GX3,黑色角龍GNGX3
 装饰品,6519,黒色角龍射珠GX4,アース射珠GX4,B.Diablos GN GX4,黑色角龍GNGX4
 装饰品,6532,黒色角龍射珠GX5,アース射珠GX5,B.Diablos GN GX5,黑色角龍GNGX5
-装饰品,6639,攻撃3裝飾,剛護珠,Attack 3 Deco,攻撃3装飾
+装饰品,6639,剛護珠,剛護珠,Attack 3 Deco,攻撃3装飾
 装饰品,6640,G級・怒剛珠,Ｇ級・怒剛珠,G Rage・Attack,G Rage・Attack
 装饰品,6641,G級・護閃珠,Ｇ級・護閃珠,G Rage・Issen,G Rage・Issen
 装饰品,6837,公會回收護石１,ギルド回収カフ１,Guild R. Cuff 1,B51A・ギルド回収カフ１
@@ -5979,13 +5979,13 @@
 装饰品,10897,之心射珠GX3,ハート射珠GX3,Heart GN GX3,之心GNGX3
 装饰品,10898,之心射珠GX4,ハート射珠GX4,Heart GN GX4,之心GNGX4
 装饰品,10899,之心射珠GX5,ハート射珠GX5,Heart GN GX5,之心GNGX5
-装饰品,10900,獵人裝飾,狩猟珠,Hunter Deco,獵人装飾
-装饰品,10901,培育者裝飾,奉仕珠,Breeder Deco,培育者装飾
-装饰品,10902,救贖裝飾,救援珠,Relief Deco,救贖装飾
-装饰品,10903,醉酒裝飾,耐酔珠,Drunk Deco,醉酒装飾
-装饰品,10904,水晶裝飾,耐晶珠,Crystal Deco,水晶装飾
-装饰品,10905,磁鐵裝飾,耐磁珠,Magnet Deco,磁鐵装飾
-装饰品,10906,警剔裝飾,警戒珠,Vigilance Deco,警惕装飾
+装饰品,10900,狩猟珠,狩猟珠,Hunter Deco,獵人装飾
+装饰品,10901,奉仕珠,奉仕珠,Breeder Deco,培育者装飾
+装饰品,10902,救援珠,救援珠,Relief Deco,救贖装飾
+装饰品,10903,耐酔珠,耐酔珠,Drunk Deco,醉酒装飾
+装饰品,10904,耐晶珠,耐晶珠,Crystal Deco,水晶装飾
+装饰品,10905,耐磁珠,耐磁珠,Magnet Deco,磁鐵装飾
+装饰品,10906,警戒珠,警戒珠,Vigilance Deco,警惕装飾
 装饰品,10907,（未译）,銃士珠Ｇ,Recoil Expert G,反動專家G
 装饰品,10908,（未译）,状耐珠Ｇ,Strange Res G,奇異耐性G
 装饰品,11037,回復速度珠Ⅰ,回復の石Ⅰ,Rec Speed Gem Ⅰ,Rec Speed Gem Ⅰ
@@ -6613,7 +6613,7 @@
 装饰品,12763,雷烏阿斯射珠GX5,レウアス射珠GX5,Reuasu GN GX5,雷烏阿斯GNGX5
 装饰品,12870,冰凍耐性護石SC1,凍耐性カフＳＣ１,Freeze Res SC1,冰凍耐性SC1
 装饰品,12871,冰界護石SA1,Ｇ氷界カフＳＡ１,Ice Age SA1,冰凍時代SA1
-装饰品,12878,冰凍裝飾,耐凍珠,Freeze Deco,冰凍装飾
+装饰品,12878,耐凍珠,耐凍珠,Freeze Deco,冰凍装飾
 装饰品,12879,（未译）,集業珠Ｇ,Sharp Focus G,鋒利聚精G
 装饰品,12880,集會G,採走珠Ｇ,Gathering G,集会G
 装饰品,12923,Doragyurosu劍珠G,ドラギュ剣珠Ｇ,Doragyurosu BM G,DoragyurosuBMG
@@ -6783,7 +6783,7 @@
 装饰品,13316,G級・護痛珠,Ｇ級・護痛珠,G Protect・Exploit,G Protect・Exploit
 装饰品,13317,G級・剛属珠,Ｇ級・剛属珠,G Attack・Dissolve,G Attack・Dissolve
 装饰品,13318,G級・剛寵珠,Ｇ級・剛寵珠,G Attack・Blaze,G Attack・Blaze
-装饰品,13319,攻撃4裝飾,護耐珠,Attack 4 Deco,攻撃4装飾
+装饰品,13319,護耐珠,護耐珠,Attack 4 Deco,攻撃4装飾
 装饰品,13320,G級・閃耐珠,Ｇ級・閃耐珠,G Attack・Resist,G Attack・Resist
 装饰品,13321,G級・剛耐珠,Ｇ級・剛耐珠,G Issen・Resist,G Issen・Resist
 装饰品,13368,G級・閃血珠,Ｇ級・閃血珠,G Issen・Vigor,G Issen・Vigor
@@ -7754,7 +7754,7 @@
 未分类,87,（預留）,（ダミー）,(dummy),（dummy）
 未分类,98,（未译）,イベント爆弾,Event Bomb,活動炸彈
 未分类,134,（預留）,（ダミー）,(dummy),（dummy）
-未分类,135,（未译）,ビン無し,No Coating,之塗層
+未分类,135,無瓶,ビン無し,No Coating,之塗層
 未分类,141,（預留）,（ダミー）,(dummy),（dummy）
 未分类,170,（預留）,（ダミー）,(dummy),（dummy）
 未分类,171,（預留）,（ダミー）,(dummy),（dummy）
@@ -7783,7 +7783,7 @@
 未分类,631,（未译）,イャンガルルガの書,Yian Garuga Info,怪鳥黑狼鳥情報
 未分类,632,（未译）,飛竜種の書【上巻】,F.Wyvern Info 1,飛行飛龍情報1
 未分类,633,（未译）,飛竜種の書【下巻】,F.Wyvern Info 2,飛行飛龍情報2
-未分类,634,（未译）,リオレウスの書,Rathalos Info,雄火龍情報
+未分类,634,火龍情報,リオレウスの書,Rathalos Info,雄火龍情報
 未分类,635,（未译）,モノブロスの書,Monoblos Info,一角龍情報
 未分类,636,（未译）,魚竜種の書,Pisc.Wyvern Info,魚龍飛龍情報
 未分类,637,（未译）,甲殻種の書【上巻】,Carapaceon Info 1,蟹獸情報1
@@ -7795,8 +7795,8 @@
 未分类,643,麒麟情報,キリンの書,Kirin Info,麒麟情報
 未分类,644,鋼龍情報,クシャルダオラの書,Kushala Info,霞龍情報
 未分类,645,（未译）,オオナズチの書,Chameleos Info,霞龍情報
-未分类,646,（未译）,ナナ・テスカトリの書,Lunastra Info,炎妃情報
-未分类,647,（未译）,テオ・テスカトルの書,Teostra Info,炎王情報
+未分类,646,炎妃龍情報,ナナ・テスカトリの書,Lunastra Info,炎妃情報
+未分类,647,炎王龍情報,テオ・テスカトルの書,Teostra Info,炎王情報
 未分类,648,（未译）,ラオシャンロンの書,Lao-Shan Info,老山山情報
 未分类,649,（未译）,ヤマツカミの書,Yamatsukami Info,浮岳龍情報
 未分类,650,（未译）,ミラボレアスの書,Fatalis Info,黑龍情報
@@ -7819,8 +7819,8 @@
 未分类,772,（未译）,マカ漬けの壷・緑,Mocha・Green,摩喀綠
 未分类,773,（未译）,マカ漬けの壷・緑,Mocha・Green,摩喀綠
 未分类,782,（未译）,マカ漬けの壷・青,Mocha・Blue,摩喀藍
-未分类,798,緑裝飾,翠緑珠,Green Deco,綠装飾
-未分类,847,小裝飾腕甲,銃器珠,Small Arms Deco,小装飾腕甲
+未分类,798,翠緑珠,翠緑珠,Green Deco,綠装飾
+未分类,847,銃器珠,銃器珠,Small Arms Deco,小装飾腕甲
 未分类,938,（未译）,Ｃ２Ｄのカケラ,C2D Fragment,C2D碎片
 未分类,1027,（未译）,黒貨,Black Currency,黑色貨幣
 未分类,1044,（未译）,クリスマスカード,Christmas Card,聖誕喀片
@@ -7847,9 +7847,9 @@
 未分类,1171,冰狐龍情報,デュラガウアの書,Dyuragaua Info,戈利亞斯情報
 未分类,1172,蠻龍情報,グレンゼブルの書,Gurenzeburu Info,Gurenzeburu情報
 未分类,1173,極龍情報,ルコディオラの書,Rukodiora Info,極龍情報
-未分类,1174,（未译）,ゴゴモアの書,Gogomoa Info,戈戈莫阿情報
+未分类,1174,跳緋獸情報,ゴゴモアの書,Gogomoa Info,戈戈莫阿情報
 未分类,1175,將軍鎌蟹多殼蟹情報,タイクンザムザの書,Taikun Zamuza Info,鎌蟹斬龍情報
-未分类,1176,（未译）,アビオルグの書,Abiorugu Info,阿比情報
+未分类,1176,獰龍情報,アビオルグの書,Abiorugu Info,阿比情報
 未分类,1177,（未译）,クアルセプスの書,Kuarusepusu Info,輝龍情報
 未分类,1178,弩岩龍之書,オディバトラスの書,Odibatorasu Info,Odibatorasu情報
 未分类,1179,（未译）,凍海獣の書,Polar Sea Info,極地海情報
@@ -8213,7 +8213,7 @@
 未分类,1882,奧魯加龍血紅,響狼の血,Orugaron Blood,奥魯加龍血紅
 未分类,1883,奧魯紅寶石,響狼の紅玉,Orugaron Ruby,奥魯紅宝石
 未分类,1884,紅奧魯加龍Mane,真紅の毛,Red Orugaron Pelt,紅奥魯加龍Mane
-未分类,1885,（未译）,炎妃龍討伐の証,Lunastra Proof,炎妃證明
+未分类,1885,炎妃龍討伐之證,炎妃龍討伐の証,Lunastra Proof,炎妃證明
 未分类,1886,（未译）,排熱弾,Heat Bomb,熱炸彈
 未分类,1887,（未译）,爆撃剣晶,Bomb S.Crystal,爆撃劍晶
 未分类,1888,（未译）,強撃剣晶,Power S.Crystal,力量之劍水晶
@@ -8709,10 +8709,10 @@
 未分类,2711,（未译）,溶岩竜の凄ビレ,Volga Tyrant Fin,熔岩龍的凶鰭
 未分类,2712,（未译）,プニプニした柔皮,Khezu Cushy Hide,電龍軟綿皮膚
 未分类,2713,（未译）,純白の柔皮,Khezu Ghost Hide,電龍純粹白色皮膚
-未分类,2714,電龍的白腹毛,アルビノの腹かみ,Khezu Ivory Belly,夫魯夫魯的白腹毛
-未分类,2715,（未译）,火竜の禍鱗,Los Calamity Scale,雄火龍的災鱗
-未分类,2716,（未译）,火竜の獄鱗,Los Stygian Scale,雄火龍監獄鱗
-未分类,2717,（未译）,火竜の皇鱗,Los Emperor Scale,雄火龍的帝鱗
+未分类,2714,電龍腹肉,アルビノの腹かみ,Khezu Ivory Belly,夫魯夫魯的白腹毛
+未分类,2715,火龍的禍鱗,火竜の禍鱗,Los Calamity Scale,雄火龍的災鱗
+未分类,2716,火龍的獄鱗,火竜の獄鱗,Los Stygian Scale,雄火龍監獄鱗
+未分类,2717,火龍的皇鱗,火竜の皇鱗,Los Emperor Scale,雄火龍的帝鱗
 未分类,2718,（未译）,雌火竜の鋼殻,Ian Steel Shell,雌火龍鋼盾甲
 未分类,2719,（未译）,雌火竜の麗殻,Ian Radiant Shell,雌火龍的華麗殼
 未分类,2720,（未译）,雌火竜の艶殻,Ian Glossy Shell,雌火龍光澤盾甲
@@ -9492,23 +9492,23 @@
 未分类,4749,（未译）,捕獲名人の実,Capture Exp Fruit,捕獲專家果實
 未分类,4750,（未译）,高級高速砥石,Perfect Whetstone,完美磨刀石
 未分类,4751,（未译）,高級栄養剤,Superior Nutrients,營養劑G
-未分类,4752,追蹤飲品,万里眼の薬,Tracker's Drink,追踪飲品
+未分类,4752,萬里眼之藥,万里眼の薬,Tracker's Drink,追踪飲品
 未分类,4753,（未译）,マーキングボール,Marking Ball,標記球
-未分类,4754,（未译）,ヒエヒエドリンク,Ultra Cool Drink,終極清凉飲品
-未分类,4755,（未译）,ピリピリドリンク,Ultra Hot Drink,終極熱飲品
+未分类,4754,冰涼飲品,ヒエヒエドリンク,Ultra Cool Drink,終極清凉飲品
+未分类,4755,辛辣飲品,ピリピリドリンク,Ultra Hot Drink,終極熱飲品
 未分类,4756,（未译）,ウスアジ,Thin Jack Mackerel,薄杰克鯖魚
 未分类,4757,長尾巴魚,ヒレナガウオ,Halfmoon Carp,長之尾魚
 未分类,4758,（未译）,ハラグロ,Black Belly Eel,黑色腹甲魚
 未分类,4759,誘惑氣味草,香来草,Fragrant Grass,誘惑气味草
 未分类,4760,（未译）,ゆびきり草,Pinky Grass,粉紅草
 未分类,4761,（未译）,うぶ毛草,Fuzzy Grass,多毛草
-未分类,4762,（未译）,きれいな貝殻,Clean Shell,清潔盾甲
-未分类,4763,（未译）,やわらかな貝殻,Soft Shell,柔軟盾甲
+未分类,4762,漂亮貝殼,きれいな貝殻,Clean Shell,清潔盾甲
+未分类,4763,柔軟貝殼,やわらかな貝殻,Soft Shell,柔軟盾甲
 未分类,4764,（未译）,めずらしい貝殻,Rare Shell,稀有盾甲
 未分类,4765,塘鵝礦石,ペリカン鉱石,Pelican Ore,Pelican礦石
 未分类,4766,（未译）,黒輝石,Black Pyroxene,黑色輝石
 未分类,4767,（未译）,パルサント鉱石,Parusanto Ore,巴魯桑礦石
-未分类,4768,Shovel蝗蟲,クワバッタ,Shovel Hopper,Shovel蝗虫
+未分类,4768,鍬蝗蟲,クワバッタ,Shovel Hopper,Shovel蝗虫
 未分类,4769,釣魚蟲子,ツリカネムシ,Fishing Bug,釣魚虫子
 未分类,4770,岩牙蟲,イソハムシ,Rockfang Worm,岩牙虫
 未分类,4771,（未译）,勇猛なる角,Valiant Horn,英勇角飾
@@ -9698,19 +9698,19 @@
 未分类,4955,（未译）,本気飲料【氷】,Serious Drink Ice,嚴肅飲品[冰]
 未分类,4956,（未译）,本気飲料【雷】,Serious Drink Thnd,嚴肅飲品[雷]
 未分类,4957,（未译）,本気飲料【龍】,Serious Drink Drgn,嚴肅飲品[龍]
-未分类,4958,（未译）,跳緋獣の毛,Gogomoa Pelt,戈戈莫阿獸皮
-未分类,4959,（未译）,跳緋獣の牙,Gogomoa Fang,戈戈莫阿之牙
-未分类,4960,（未译）,跳緋獣の爪,Gogomoa Claw,戈戈莫阿之爪
-未分类,4961,（未译）,跳緋獣の角,Gogomoa Horn,戈戈莫阿角飾
-未分类,4962,跳緋獸尾巴,跳緋獣の尾,Gogomoa Tail,戈戈莫阿之尾
-未分类,4963,（未译）,ココモアの毛,Kokomoa Pelt,科科莫獸皮
-未分类,4964,（未译）,跳緋獣の上毛,Gogomoa Pelt+,戈戈莫阿上皮
-未分类,4965,（未译）,跳緋獣の鋭牙,Gogomoa Fang+,戈戈莫阿上牙
-未分类,4966,跳緋獸爪G,跳緋獣の尖爪,Gogomoa Claw+,戈戈莫阿爪+
-未分类,4967,（未译）,跳緋獣の鋭角,Gogomoa Horn+,戈戈莫阿上角
-未分类,4968,跳緋獸尾G之,跳緋獣の上尾,Gogomoa Tail+,戈戈莫阿尾+之
-未分类,4969,（未译）,ココモアの柔毛,Kokomoa Pelt+,科科莫上皮
-未分类,4970,（未译）,跳緋獣討伐の証,Gogomoa Proof,戈戈莫阿證明
+未分类,4958,跳緋獸毛,跳緋獣の毛,Gogomoa Pelt,戈戈莫阿獸皮
+未分类,4959,跳緋獸牙,跳緋獣の牙,Gogomoa Fang,戈戈莫阿之牙
+未分类,4960,跳緋獸爪,跳緋獣の爪,Gogomoa Claw,戈戈莫阿之爪
+未分类,4961,跳緋獸角,跳緋獣の角,Gogomoa Horn,戈戈莫阿角飾
+未分类,4962,跳緋獸尾,跳緋獣の尾,Gogomoa Tail,戈戈莫阿之尾
+未分类,4963,科科莫亞毛,ココモアの毛,Kokomoa Pelt,科科莫獸皮
+未分类,4964,跳緋獸上毛,跳緋獣の上毛,Gogomoa Pelt+,戈戈莫阿上皮
+未分类,4965,跳緋獸鋭牙,跳緋獣の鋭牙,Gogomoa Fang+,戈戈莫阿上牙
+未分类,4966,跳緋獸尖爪,跳緋獣の尖爪,Gogomoa Claw+,戈戈莫阿爪+
+未分类,4967,跳緋獸鋭角,跳緋獣の鋭角,Gogomoa Horn+,戈戈莫阿上角
+未分类,4968,跳緋獸上尾,跳緋獣の上尾,Gogomoa Tail+,戈戈莫阿尾+之
+未分类,4969,科科莫亞柔毛,ココモアの柔毛,Kokomoa Pelt+,科科莫上皮
+未分类,4970,跳緋獸討伐之證,跳緋獣討伐の証,Gogomoa Proof,戈戈莫阿證明
 未分类,4971,（未译）,牙獣種の燦角,Pelagus Horn,牙獸角飾
 未分类,4972,回避護石IIPA3,回避カフⅡＰＡ３,Evasion Ⅱ PA3,回避IIPA3
 未分类,4973,睡眠劍護石IIPA1,眠剣カフⅡＰＡ１,Sleep Sword Ⅱ PA1,睡眠之劍IIPA1
@@ -9844,7 +9844,7 @@
 未分类,5111,猫眼原珠,猫眼原珠,Cat's Eye Jewel,F713・猫眼原珠
 未分类,5112,龜甲原珠,亀甲原珠,Turtleshell Jewel,F813・亀甲原珠
 未分类,5113,（未译）,古龍種の髄,E.Dragon Marrow,長老龍王骨髓
-未分类,5128,雙重阿比證明,獰竜２頭討伐の証,Double Abi Proof,双重阿比證明
+未分类,5128,獰龍二頭討伐之證,獰竜２頭討伐の証,Double Abi Proof,双重阿比證明
 未分类,5130,（未译）,飛竜種の宝玉,Huge F.Wyvern Gem,飛龍的稀玉
 未分类,5131,堅固風箱,丈夫な風箱,Sturdy Wind Box,≪堅固風箱
 未分类,5132,鳴響音叉,鳴りやまぬ音叉,Tuning Fork,≫≪鳴響音叉≫
@@ -10024,20 +10024,20 @@
 未分类,5306,多殼蟹鑽頭,多殻蟹の鋭槍,Zamuza Drill,斬龍鑽頭
 未分类,5307,蟹獸寶石,甲殻種の宝玉,Carapaceon Jewel,蟹獸宝石
 未分类,5308,多殼蟹證明,多殻蟹討伐の証,Zamuza Proof,斬龍證明
-未分类,5309,阿比奧魯古鱗,獰竜の鱗,Abiorugu Scale,阿比奥魯古鱗片
+未分类,5309,獰龍鱗,獰竜の鱗,Abiorugu Scale,阿比奥魯古鱗片
 未分类,5310,獰龍骨,獰竜の骨,Abiorugu Bone,阿比骨制
-未分类,5311,（未译）,獰竜の皮,Abiorugu Hide,阿比皮毛
-未分类,5312,（未译）,獰竜の牙,Abiorugu Fang,阿比之牙
-未分类,5313,阿比尾巴,獰竜の刃尾,Abiorugu Tail,阿比之尾
-未分类,5314,（未译）,獰竜の角,Abiorugu Horn,阿比角飾
-未分类,5315,阿比奧魯古血紅,獰竜の血,Abiorugu Blood,阿比奥魯古血紅
-未分类,5316,阿比奧魯古G,獰竜の上鱗,Abiorugu Scale+,阿比奥魯古+
-未分类,5317,阿比奧魯古骨G,獰竜の上骨,Abiorugu Bone+,阿比奥魯古骨+
-未分类,5318,阿比奧魯古上皮,獰竜の上皮,Abiorugu Hide+,阿比奥魯古上皮
-未分类,5319,阿比奧魯古上牙,獰竜の穿牙,Abiorugu Fang+,阿比奥魯古上牙
-未分类,5320,阿比尾G之,獰竜の上刃尾,Abiorugu Tail+,阿比尾+之
-未分类,5321,阿比奧魯古上角,獰竜の尖角,Abiorugu Horn+,阿比奥魯古上角
-未分类,5322,阿比奧魯古血G,獰竜の熱血,Abiorugu Blood+,阿比奥魯古血+
+未分类,5311,獰龍皮,獰竜の皮,Abiorugu Hide,阿比皮毛
+未分类,5312,獰龍牙,獰竜の牙,Abiorugu Fang,阿比之牙
+未分类,5313,獰龍刃尾,獰竜の刃尾,Abiorugu Tail,阿比之尾
+未分类,5314,獰龍角,獰竜の角,Abiorugu Horn,阿比角飾
+未分类,5315,獰龍血,獰竜の血,Abiorugu Blood,阿比奥魯古血紅
+未分类,5316,獰龍上鱗,獰竜の上鱗,Abiorugu Scale+,阿比奥魯古+
+未分类,5317,獰龍上骨,獰竜の上骨,Abiorugu Bone+,阿比奥魯古骨+
+未分类,5318,獰龍上皮,獰竜の上皮,Abiorugu Hide+,阿比奥魯古上皮
+未分类,5319,獰龍穿牙,獰竜の穿牙,Abiorugu Fang+,阿比奥魯古上牙
+未分类,5320,獰龍上刃尾,獰竜の上刃尾,Abiorugu Tail+,阿比尾+之
+未分类,5321,獰龍尖角,獰竜の尖角,Abiorugu Horn+,阿比奥魯古上角
+未分类,5322,獰龍熱血,獰竜の熱血,Abiorugu Blood+,阿比奥魯古血+
 未分类,5323,獸飛龍鱗,獣竜種の鱗,Brute Scale,獸飛龍鱗片
 未分类,5324,獸飛龍G,獣竜種の上鱗,Brute Scale+,獸飛龍+
 未分类,5325,（未译）,獣竜種の厚鱗,Brute Hardscale,獸飛龍硬鱗
@@ -10050,7 +10050,7 @@
 未分类,5332,獸飛龍尾巴,獣竜種の尾,Brute Tail,獸飛龍之尾
 未分类,5333,獸飛龍尾G之,獣竜種の靭尾,Brute Tail+,獸飛龍尾+之
 未分类,5334,獸飛龍頂尾巴,獣竜種の剛尾,Brute Hardtail,獸飛龍頂之尾
-未分类,5335,阿比奧魯古證明,獰竜討伐の証,Abiorugu Proof,阿比奥魯古證明
+未分类,5335,獰龍討伐之證,獰竜討伐の証,Abiorugu Proof,阿比奥魯古證明
 未分类,5336,（未译）,獣竜種の燃血,Brute Blood,獸飛龍血紅
 未分类,5337,庫羅尼P生産券,クローニＰ生産券,Kuroni P Ticket,D914・クローニＰ生産券
 未分类,5338,阿哈巴P生産券,アハバーＰ生産券,Ahaba P Ticket,DA14・アハバーＰ生産券
@@ -10135,7 +10135,7 @@
 未分类,5418,（未译）,加散珠Ｇ,Pellet Add G,散彈附加G
 未分类,5419,（未译）,無精珠Ｇ,Laziness G,懶惰G
 未分类,5420,（未译）,虚弱珠Ｇ,Fraility G,虚弱G
-未分类,5421,（未译）,炎王龍の灼翼,Teostra Sup. Wing,炎王超級之翼
+未分类,5421,炎王龍灼翼,炎王龍の灼翼,Teostra Sup. Wing,炎王超級之翼
 未分类,5422,呑龍超級石頭,呑竜の爛石,Paria Sup. Stone,巴利亞超級石頭
 未分类,5423,多拉超級鱗,冥雷竜の焦鱗,Dora Sup. Scale,多拉超級鱗片
 未分类,5571,加艾希斯生産券頭,カエシス生産券頭,Kaesis Tkt Head,C315・カエシス生産券頭
@@ -10322,7 +10322,7 @@
 未分类,5753,（未译）,メモリアルの型紙,Memorial Note,紀念音符
 未分类,5754,（未译）,お祭りの型紙,Festi Note,慶典音符
 未分类,5755,我的任務券,ミッション達成証,My Mission Tkt,我的任務Tkt
-未分类,5756,（未译）,跳緋獣の毛玉,Gogomoa Hairball,戈戈莫阿毛球
+未分类,5756,跳緋獸毛玉,跳緋獣の毛玉,Gogomoa Hairball,戈戈莫阿毛球
 未分类,5757,（未译）,ぎらぎらなもの,Glistn Things,閃耀万物
 未分类,5758,（未译）,もさもさなもの,Hairy Things,多毛万物
 未分类,5759,（未译）,ちりちりなもの,Gritty Things,堅毅万物
@@ -10661,9 +10661,9 @@
 未分类,6146,奧迪驅逐證明,弩岩竜撃退の証,Odi Repel Proof,奥迪驅逐證明
 未分类,6147,奧迪弑殺證明,弩岩竜討伐の証,Odi Slay Proof,奥迪弑殺證明
 未分类,6148,奧迪至高鱗,弩岩竜の崩鱗,Odi Supreme Scale,奥迪至高鱗片
-未分类,6149,（未译）,跳緋獣の緋毛,Gogo Scarlet Fur,戈戈莫阿緋毛皮
-未分类,6150,（未译）,跳緋獣の猛毛,Gogo Fierce Fur,戈戈莫阿猛烈毛皮
-未分类,6151,（未译）,跳緋獣の剛毛,Gogo Thickfur,戈戈莫阿頂毛皮
+未分类,6149,跳緋獸緋毛,跳緋獣の緋毛,Gogo Scarlet Fur,戈戈莫阿緋毛皮
+未分类,6150,跳緋獸猛毛,跳緋獣の猛毛,Gogo Fierce Fur,戈戈莫阿猛烈毛皮
+未分类,6151,跳緋獸剛毛,跳緋獣の剛毛,Gogo Thickfur,戈戈莫阿頂毛皮
 未分类,6152,舞雷龍雷鳴鱗,舞雷竜の雷鱗,Beru Thunder Scl,貝魯雷鳴鱗片
 未分类,6153,舞雷龍Phosphorus鱗,舞雷竜の燐鱗,Beru Phosphor Scl,貝魯Phosphorus鱗
 未分类,6154,絢爛鳥喙,麗々しいクチバシ,Gaudy Beak,Gaudy鳥喙
@@ -11080,9 +11080,9 @@
 未分类,6653,波喀頓尾巴,凍海獣の尻尾,Pokaradon Tail,波喀頓之尾
 未分类,6654,（未译）,凍海獣の厚皮,Pokaradon Hide,波喀頓皮毛
 未分类,6655,寶石GR1,優玉,GR1 Gem,宝石GR1
-未分类,6656,（未译）,毒怪鳥の偉皮,Rubbery Everhide,極上橡膠質皮
+未分类,6656,毒怪鳥偉皮,毒怪鳥の偉皮,Rubbery Everhide,極上橡膠質皮
 未分类,6657,Inexhaustive流體,爆走エキス,Inexhaustive Fluid,Inexhaustive流体
-未分类,6658,（未译）,毒怪鳥の純輝石,Gyp.Radiant Stone,閃耀的閃光水晶
+未分类,6658,毒怪鳥純輝石,毒怪鳥の純輝石,Gyp.Radiant Stone,閃耀的閃光水晶
 未分类,6659,（未译）,桃毛獣の偉毛,Conga. Everpelt,極上桃毛獸毛
 未分类,6660,（未译）,鮮麗な毛,Lovely Pelt,可愛獸皮
 未分类,6661,（未译）,桃毛獣の狂爪,Conga.Sharp Claws,桃毛獸鋒利爪
@@ -11109,15 +11109,15 @@
 未分类,6682,希尤吉尾巴,針纏竜の尻尾,Hyuji Tail,希尤吉之尾
 未分类,6683,（未译）,針纏竜の角,Hyuji Horn,希尤吉角飾
 未分类,6684,寶石GR3,華玉,GR3 Gem,宝石GR3
-未分类,6685,雄火龍風化鱗,火竜の壮鱗,Los.Wthrd Scale,雄火龍風化鱗片
-未分类,6686,雄火龍深淵骨髓,火竜の秘髄,Los.Deep Marrow,雄火龍深渊骨髓
-未分类,6687,（未译）,火竜の血色珠,Los.Prisma Blood,雄火龍七彩血
+未分类,6685,火龍的壮鱗,火竜の壮鱗,Los.Wthrd Scale,雄火龍風化鱗片
+未分类,6686,火龍的秘髄,火竜の秘髄,Los.Deep Marrow,雄火龍深渊骨髓
+未分类,6687,火龍的血色珠,火竜の血色珠,Los.Prisma Blood,雄火龍七彩血
 未分类,6688,（未译）,雪獅子の壮毛,Blng.Glacial Hide,雪獅子風化皮毛
 未分类,6689,雪獅子厚重尾巴,雪獅子の鍛尾,Blng.Thick Tail,雪獅子厚重之尾
 未分类,6690,雪獅子陳舊胡須,雪獅子の長髭,Blng.Aged Beard,雪獅子陳旧胡須
 未分类,6691,（未译）,雪獅子の鉄牙,Blng.Berg Fang,雪獅子冰霜之牙
-未分类,6692,（未译）,真珠色の壮皮,Khezu Aged Hide,電龍風化皮毛
-未分类,6693,（未译）,アルビノの極上液,Khezu Soul Extract,電龍白化提取物
+未分类,6692,真珠色壯皮,真珠色の壮皮,Khezu Aged Hide,電龍風化皮毛
+未分类,6693,白色極上液,アルビノの極上液,Khezu Soul Extract,電龍白化提取物
 未分类,6694,（未译）,蒼白の柔皮,Khezu Azure Hide,電龍蒼皮毛
 未分类,6695,（未译）,鎧竜の至骨,Gravios Lord Bone,鎧龍至高骨制
 未分类,6696,鎧龍心髄,鎧竜の心髄,Gravios Liver,鎧龍Liver
@@ -11256,7 +11256,7 @@
 未分类,6829,（未译）,プレデターハニー,Predator Honey,掠奪者蜂蜜
 未分类,6830,（未译）,なぞの光る欠片,Dazzling Shard,神秘閃光碎片
 未分类,6831,GW奇凱托,ＧＷチケット,GW Ticket,AF1A・ＧＷチケット
-未分类,6832,GW装飾品引換券,ＧＷ装飾品引換券,GW Deco Voucher,B01A・ＧＷ装飾品引換券
+未分类,6832,ＧＷ装飾品引換券,ＧＷ装飾品引換券,GW Deco Voucher,B01A・ＧＷ装飾品引換券
 未分类,6833,（未译）,ＧＷくじ引き券,GW Lottery Ticket,黄金周抽獎券
 未分类,6834,銀朱原珠,銀朱原珠,Silver Jewel,B21A・銀朱原珠
 未分类,6835,黒緑原珠,黒緑原珠,Dark Green Jewel,B31A・黒緑原珠
@@ -11319,15 +11319,15 @@
 未分类,6986,（未译）,方薬,Poison,毒
 未分类,6987,（未译）,怪鳥の優鱗,Kut-Ku Fine Scale,大怪鳥極上鱗
 未分类,6988,（未译）,盾蟹の優鋏,Hermitaur Scissor,盾蟹剪刃
-未分类,6989,（未译）,毒怪鳥の偉爪,Gypceros Hard Claw,毒怪鳥極上爪
+未分类,6989,毒怪鳥偉爪,毒怪鳥の偉爪,Gypceros Hard Claw,毒怪鳥極上爪
 未分类,6990,（未译）,桃毛獣の偉爪,Congalala Shredder,桃毛獸極上爪
 未分类,6991,（未译）,岩竜の華涙,Basarios Teardrop,岩龍閃耀礦石
 未分类,6992,（未译）,雌火竜の華殻,Rathian Shineshell,雌火龍閃耀盾甲
 未分类,6993,將軍鎌蟹閃耀護腿,鎌蟹の華脚,Shogun Great Leg,鎌蟹閃耀護腿
 未分类,6994,雪獅子壯牙,雪獅子の壮牙,Blango Prime Fang,雪獅子風化Tusk
-未分类,6995,（未译）,真珠色の壮翼膜,Khezu Membrane,電龍風化之翼
+未分类,6995,真珠色壯翼膜,真珠色の壮翼膜,Khezu Membrane,電龍風化之翼
 未分类,6996,（未译）,鎧竜の至殻,Gravios Mega Shell,鎧龍至高盾甲
-未分类,6997,（未译）,火竜の壮殻,Los Great Shell,雄火龍風化殼
+未分类,6997,火龍的壮殻,火竜の壮殻,Los Great Shell,雄火龍風化殼
 未分类,6998,飛龍不朽鱗,棘竜の仙鱗,Espi Eternal Scale,飛龍不朽鱗片
 未分类,6999,（未译）,溶岩竜の仙ビレ,Volga Divine Fin,熔岩龍不滅鰭
 未分类,7000,呑龍至高之牙,呑竜の至牙,Paria Supreme Fang,巴利亞至高之牙
@@ -11352,7 +11352,7 @@
 未分类,7019,天川水滴,天川のしずく石,Andradite Shard,6B1B・天川水滴
 未分类,7020,（未译）,ねじりハチマキ,Twisted Hachimaki,石6C1B・轉頭帶6
 未分类,7021,（未译）,真っ赤な法被,Bright Red Happi,D1B・鮮紅法被6
-未分类,7022,E1B・金神輿裝飾,金の神輿飾り,Gold Mikoshi Decor,E1B・金神輿装飾
+未分类,7022,金の神輿飾り,金の神輿飾り,Gold Mikoshi Decor,E1B・金神輿装飾
 未分类,7023,望月子,望月だんご,Supreme Dango,6F1B・望月子
 未分类,7024,橙色頑殼,橙色の頑殻,Adamant Orange,橙色頑殼、
 未分类,7025,（未译）,青水晶の欠片,Celestite Fragment,青水晶欠片
@@ -11611,7 +11611,7 @@
 未分类,7283,（未译）,怪鳥の鳴管,Bird Wyvern Ringer,鳥飛龍環形
 未分类,7284,（未译）,盾蟹の鎧殻,Hermitaur Armor,盾蟹鎧甲
 未分类,7285,（未译）,桃毛獣の磨牙,Conga.Polished Fng,桃毛獸抛光牙
-未分类,7286,毒怪鳥劇毒尾巴,毒怪鳥の尻尾,Gypceros Ven.Tail,毒怪鳥劇毒之尾
+未分类,7286,毒怪鳥尾,毒怪鳥の尻尾,Gypceros Ven.Tail,毒怪鳥劇毒之尾
 未分类,7287,（未译）,岩竜の毒殻,Basarios Ven.Shell,岩龍劇毒盾甲
 未分类,7288,（未译）,鎌蟹の刀爪,Ceanataur Katana,鎌蟹太刀
 未分类,7289,伸縮柔皮,伸縮する柔皮,Elastic Hide,Elastic皮毛
@@ -12374,16 +12374,16 @@
 未分类,8564,艾皮徳Ⅳ生産券,エピデⅣ生産券,Epide Ⅳ Tkt,7421・エピデⅣ生産券
 未分类,8565,吉艾拉Ⅴ生産券,ジェラⅤ生産券,Jela Ⅴ Tkt,7521・ジェラⅤ生産券
 未分类,8566,艾皮徳Ⅴ生産券,エピデⅤ生産券,Epide Ⅴ Tkt,7621・エピデⅤ生産券
-未分类,8763,烈火攻撃裝飾,火攻珠,Fire Atk Deco,烈火攻撃装飾
-未分类,8764,流水攻撃裝飾,水攻珠,Water Atk Deco,流水攻撃装飾
-未分类,8765,雷鳴攻撃裝飾,雷攻珠,Thunder Atk Deco,雷鳴攻撃装飾
-未分类,8766,冰凍攻撃裝飾,氷攻珠,Ice Atk Deco,冰凍攻撃装飾
-未分类,8767,龍王攻撃裝飾,龍攻珠,Dragon Atk Deco,龍王攻撃装飾
-未分类,8768,烈火之劍裝飾,火剣珠,Fire Sword Deco,烈火之劍装飾
-未分类,8769,流水之劍裝飾,水剣珠,Water Sword Deco,流水之劍装飾
-未分类,8770,雷鳴之劍裝飾,雷剣珠,Thunder Sword Deco,雷鳴之劍装飾
-未分类,8771,冰凍之劍裝飾,氷剣珠,Ice Sword Deco,冰凍之劍装飾
-未分类,8772,龍王之劍裝飾,龍剣珠,Dragon Sword Deco,龍王之劍装飾
+未分类,8763,火攻珠,火攻珠,Fire Atk Deco,烈火攻撃装飾
+未分类,8764,水攻珠,水攻珠,Water Atk Deco,流水攻撃装飾
+未分类,8765,雷攻珠,雷攻珠,Thunder Atk Deco,雷鳴攻撃装飾
+未分类,8766,氷攻珠,氷攻珠,Ice Atk Deco,冰凍攻撃装飾
+未分类,8767,龍攻珠,龍攻珠,Dragon Atk Deco,龍王攻撃装飾
+未分类,8768,火剣珠,火剣珠,Fire Sword Deco,烈火之劍装飾
+未分类,8769,水剣珠,水剣珠,Water Sword Deco,流水之劍装飾
+未分类,8770,雷剣珠,雷剣珠,Thunder Sword Deco,雷鳴之劍装飾
+未分类,8771,氷剣珠,氷剣珠,Ice Sword Deco,冰凍之劍装飾
+未分类,8772,龍剣珠,龍剣珠,Dragon Sword Deco,龍王之劍装飾
 未分类,8773,（未译）,剣術珠Ｇ,Fencing G,劍術G
 未分类,8774,（未译）,集研珠Ｇ,Focus G,聚精G
 未分类,8775,（未译）,耐状態珠Ｇ,Status Res G,状態耐性G
@@ -12540,7 +12540,7 @@
 未分类,8926,黒縁鳳蝶,クロブチアゲハ,Blk Swallowtail,黑色Swallowtail
 未分类,8927,Kusumino昆蟲,クスミノムシ,Kusumino Insect,Kusumino昆虫
 未分类,8928,大顎蜂,オオアゴバチ,Wyvernjaw Bee,大下顎Bee
-未分类,8929,Hiding蝗蟲,モグリバッタ,Cryptic Locust,Hiding蝗虫
+未分类,8929,潛蝗蟲,モグリバッタ,Cryptic Locust,Hiding蝗虫
 未分类,8930,（未译）,バタフライリリィ,Butterfly Lily,蝴蝶百合
 未分类,8931,（未译）,ねじまき草,Wind Up Grass,風提升草
 未分类,8932,鋼綿花,鋼綿花,Steel Wool,鋼Wool
@@ -12666,7 +12666,7 @@
 未分类,9076,S火龍強力鱗,銀火竜の絶鱗,S.Rath Shard,S火龍強力鱗片
 未分类,9077,S火龍深淵骨髓,銀火竜の秘髄,S.Rath Darkmarrow,S火龍深渊骨髓
 未分类,9078,（未译）,銀火竜の血色珠,S.Rath Bloodstone,S火龍血石
-未分类,9079,銀火龍紅寶石,銀火竜の紅玉,S.Rath Ruby,銀雄火龍紅宝石
+未分类,9079,銀火龍紅玉,銀火竜の紅玉,S.Rath Ruby,銀雄火龍紅宝石
 未分类,9080,灰晶蠍腐蝕毛皮,灰晶蠍の蝕毛,Akura Acidfur,尾晶蝎腐蝕毛皮
 未分类,9081,灰晶蠍紅水晶,灰晶蠍の紅結晶,Akura Red Crystal,尾晶蝎紅水晶
 未分类,9082,（未译）,灰晶蠍の絶殻,Jebia Cortex,杰比亞強力盾甲
@@ -12762,7 +12762,7 @@
 未分类,9175,加魯多礦石・貴,カルド鉱石・貴,,D723・カルド鉱石・貴
 未分类,9176,加魯多礦石・發,カルド鉱石・発,,D823・カルド鉱石・発
 未分类,9177,加魯多礦石・榮,カルド鉱石・栄,,D923・カルド鉱石・栄
-未分类,9178,裝飾草,着飾り草,Ornamental Grass,装飾草、
+未分类,9178,着飾り草,着飾り草,Ornamental Grass,装飾草、
 未分类,9179,（未译）,東方の織り糸,Eastern Wool,東方織線
 未分类,9180,紅Cat涙水,あかねこの涙,Red Cat Tears,紅Cat泪水
 未分类,9181,邪惡Cat涙水,あくねこの涙,Evil Cat Tears,邪惡Cat泪水
@@ -13009,11 +13009,11 @@
 未分类,9586,（未译）,金塵龍討伐の証,Garuba Proof,加魯巴證明
 未分类,9587,（未译）,ゴム質の最上紫皮,P.Rubber Greathide,紫色偉大橡膠皮毛
 未分类,9588,（未译）,ゴム質の極上紫皮,P.Rubber Purehide,紫極上橡膠皮
-未分类,9589,（未译）,毒怪鳥の紫石頭,P.Gyp Hard Head,P.毒怪堅硬頭部
-未分类,9590,毒怪鳥緑尾巴,毒怪鳥の緑尾,P.Gyp Green Tail,毒怪鳥綠之尾
-未分类,9591,（未译）,毒怪鳥の華爪,P.Gyp Shineclaw,P.毒怪閃耀之爪
-未分类,9592,（未译）,毒怪鳥の華皮,P.Gyp Shinehide,P.毒怪閃耀皮毛
-未分类,9593,（未译）,毒怪鳥の純紫輝石,P.Gyp Lightcrystal,純粹紫色光水晶
+未分类,9589,毒怪鳥紫石頭,毒怪鳥の紫石頭,P.Gyp Hard Head,P.毒怪堅硬頭部
+未分类,9590,毒怪鳥緑尾,毒怪鳥の緑尾,P.Gyp Green Tail,毒怪鳥綠之尾
+未分类,9591,毒怪鳥華爪,毒怪鳥の華爪,P.Gyp Shineclaw,P.毒怪閃耀之爪
+未分类,9592,毒怪鳥華皮,毒怪鳥の華皮,P.Gyp Shinehide,P.毒怪閃耀皮毛
+未分类,9593,毒怪鳥純紫輝石,毒怪鳥の純紫輝石,P.Gyp Lightcrystal,純粹紫色光水晶
 未分类,9594,（未译）,棘白竜の豪棘,W.Espi Rage Spike,白色飛龍憤怒刺釘
 未分类,9595,（未译）,棘白竜の毒棘,W.Espi Venom Spike,W.飛龍劇毒刺釘
 未分类,9596,（未译）,棘白竜の絶鱗,W.Espi Direshard,W.飛龍強力鱗
@@ -13386,7 +13386,7 @@
 未分类,10099,預留10099,ダミー10099,dummy10099,7327・ダミー10099
 未分类,10100,預留10100,ダミー10100,dummy10100,7427・ダミー10100
 未分类,10101,金光小判,きんぴか小判,Kinpika Oval,7527・金光小判
-未分类,10102,白化特殊流體,アルビノの特濃液,Albino Extract,白化特殊流体
+未分类,10102,白色特濃液,アルビノの特濃液,Albino Extract,白化特殊流体
 未分类,10103,燒焦鐵破片,焼けた鉄の破片,Burnt Iron Shards,7727・焼焦鐵破片
 未分类,10104,尤基綿毛,ユキ綿毛,Yuki Fluff,7827・ユキ綿毛
 未分类,10105,吉魯多内科生産券,ギルドネコ生産券,Guild Cat Tkt,7927・ギルドネコ生産券
@@ -13682,13 +13682,13 @@
 未分类,11195,（未译）,灼熱サボテン,Burning Cactus,燃燒仙人掌
 未分类,11196,砂魂草,砂魂草,Sandsoul Grass,BC2B・砂魂草
 未分类,11197,（未译）,谷魂草,Valleysoul Grass,山谷之魂草
-未分类,11198,（未译）,跳緋獣の華毛,Gogo Eminent Fur,戈戈杰出毛皮
-未分类,11199,（未译）,跳緋獣の華爪,Gogo Eminent Clw,戈戈杰出爪
-未分类,11200,跳緋獸格鬥之牙,跳緋獣の闘牙,Gogo Combat Fang,戈戈莫阿格斗之牙
-未分类,11201,（未译）,跳緋獣の峻烈角,Gogo Extreme Horn,戈戈莫阿極限角飾
-未分类,11202,跳緋獸絲綢尾巴,跳緋獣の絨尾,Gogo Silk Tail,戈戈莫阿絲綢之尾
-未分类,11203,（未译）,ココモアの良質毛,Koko Quality Fur,可可高級庫爾毛皮
-未分类,11204,（未译）,跳緋獣の猩血毛,Gogo Orange Fur,戈戈血帶色發型
+未分类,11198,跳緋獸華毛,跳緋獣の華毛,Gogo Eminent Fur,戈戈杰出毛皮
+未分类,11199,跳緋獸華爪,跳緋獣の華爪,Gogo Eminent Clw,戈戈杰出爪
+未分类,11200,跳緋獸闘牙,跳緋獣の闘牙,Gogo Combat Fang,戈戈莫阿格斗之牙
+未分类,11201,跳緋獸峻烈角,跳緋獣の峻烈角,Gogo Extreme Horn,戈戈莫阿極限角飾
+未分类,11202,跳緋獸絨尾,跳緋獣の絨尾,Gogo Silk Tail,戈戈莫阿絲綢之尾
+未分类,11203,科科莫亞良質毛,ココモアの良質毛,Koko Quality Fur,可可高級庫爾毛皮
+未分类,11204,跳緋獸猩血毛,跳緋獣の猩血毛,Gogo Orange Fur,戈戈血帶色發型
 未分类,11205,護石素G・紫黒,カフの素Ｇ・紫黒,Cuff Base G・Raisin,Cuff Base G・Raisin
 未分类,11206,（未译）,炎角竜討伐の証,Varusaburosu Proof,荒厄龍證明
 未分类,11207,吉魯多瘴炎紋章,ギルド瘴炎紋章,Blazing Emblem,C72B・ギルド瘴炎紋章
@@ -13901,7 +13901,7 @@
 未分类,11445,（未译）,攻撃力UPの印,Attack UP Sigil,攻撃刻印UP
 未分类,11446,屬性状態刻印UP,属性・状態UPの印,Ele Status UP Sigil,属性状態刻印UP
 未分类,11447,會心遙遠刻印UP,距離補正の印,Crit Dist UP Sigil,会心遥遠刻印UP
-未分类,11448,（未译）,ビン威力UPの印,Coating UP Sigil,塗層刻印UP
+未分类,11448,瓶威力UP之印,ビン威力UPの印,Coating UP Sigil,塗層刻印UP
 未分类,11449,（未译）,防御力UPの印,Defense UP Sigil,防御刻印UP
 未分类,11450,（未译）,ダメージ軽減の印,Damage Red Sigil,傷害紅刻印
 未分类,11451,（未译）,体力自動回復の印,HP Regen Sigil,再生刻印HP
@@ -14081,16 +14081,16 @@
 未分类,11726,（未译）,神龍木の種,Dragon God Seed,龍王神種子
 未分类,11727,（未译）,浮峰龍討伐の証,Yama Kurai Proof,山暗證明
 未分类,11728,預留11728,ダミー11728,Dummy 11728,D02D・ダミー11728
-未分类,11729,阿比奧魯古至高鱗,獰竜の至鱗,Abio.Supreme Scl,阿比奥魯古至高鱗片
-未分类,11730,阿比奧魯古至高皮毛,獰竜の至皮,Abiorugu Suprm Hide,阿比奥魯古至高皮毛
-未分类,11731,阿比奧魯古暴力角,獰竜の暴角,Abiorugu Cruel Hrn,阿比奥魯古暴力角
-未分类,11732,阿比奧魯古渇望血,獰竜の餓湧血,Abio.Starved Blood,阿比奥魯古渇望血
-未分类,11733,阿比奧魯古尾巴戰栗,獰竜の乱刃尾,Abiorugu Flayer,阿比奥魯古之尾戰栗
-未分类,11734,阿比奧魯古猛烈之牙,獰竜の猛牙,Abiorugu Fierce Fng,阿比奥魯古猛烈之牙
-未分类,11735,阿比奧魯古邪惡骨制,獰竜の凶骨,Abio. Malice Bone,阿比奥魯古邪惡骨制
-未分类,11736,阿比奧魯古猛烈骨制,獰竜の猛骨,Abiorugu Feral Bone,阿比奥魯古猛烈骨制
-未分类,11737,阿比奧魯古強力骨制,獰竜の剛骨,Abiorugu Solid Bone,阿比奥魯古強力骨制
-未分类,11738,阿比奧魯古熱骨制,獰竜の熱骨,Abiorugu Heat Bone,阿比奥魯古熱骨制
+未分类,11729,獰龍至鱗,獰竜の至鱗,Abio.Supreme Scl,阿比奥魯古至高鱗片
+未分类,11730,獰龍至皮,獰竜の至皮,Abiorugu Suprm Hide,阿比奥魯古至高皮毛
+未分类,11731,獰龍暴角,獰竜の暴角,Abiorugu Cruel Hrn,阿比奥魯古暴力角
+未分类,11732,獰龍餓湧血,獰竜の餓湧血,Abio.Starved Blood,阿比奥魯古渇望血
+未分类,11733,獰龍亂刃尾,獰竜の乱刃尾,Abiorugu Flayer,阿比奥魯古之尾戰栗
+未分类,11734,獰龍猛牙,獰竜の猛牙,Abiorugu Fierce Fng,阿比奥魯古猛烈之牙
+未分类,11735,獰龍凶骨,獰竜の凶骨,Abio. Malice Bone,阿比奥魯古邪惡骨制
+未分类,11736,獰龍猛骨,獰竜の猛骨,Abiorugu Feral Bone,阿比奥魯古猛烈骨制
+未分类,11737,獰龍剛骨,獰竜の剛骨,Abiorugu Solid Bone,阿比奥魯古強力骨制
+未分类,11738,獰龍熱骨,獰竜の熱骨,Abiorugu Heat Bone,阿比奥魯古熱骨制
 未分类,11739,（未译）,月光卵,Moonlight Egg,月光蛋
 未分类,11740,（未译）,奇面王の帽子,Shakalaka Hat,奇面族帽子
 未分类,11741,高貴的白毛,気高き白毛,Noble White Hair,高貴的白毛、
@@ -14221,7 +14221,7 @@
 未分类,12041,（未译）,キャラバン椿箱,Caravan Crmellia Box,遠征山茶箱子
 未分类,12042,（未译）,キャラバン葵箱,Caravan Hllyhock Box,遠征蜀葵盒子
 未分类,12043,密閉麻痺瓶,密閉麻痺ビン,T.Para Coating,T.Para塗層
-未分类,12044,（未译）,密閉睡眠ビン,T.Sleep Coating,T.睡眠塗層
+未分类,12044,密閉睡眠瓶,密閉睡眠ビン,T.Sleep Coating,T.睡眠塗層
 未分类,12045,（未译）,いかめしい爪,Grave Claw,墓地之爪
 未分类,12046,莊嚴紫布,荘厳な紫布,Solemn Purple Cloth,庄嚴紫布
 未分类,12047,柔軟的上白毛,やわらかい上白毛,Soft White Hair,柔軟的上白毛、
@@ -14461,7 +14461,7 @@
 未分类,12347,巨大羽筆,大きな羽根ペン,Big Quill Pen,、
 未分类,12348,（未译）,小さな羽根ペン,Small Quill Pen,巨大羽筆、微小羽筆
 未分类,12349,（未译）,クリスマスリース,Christmas Wreath,聖誕花環
-未分类,12350,東方裝飾,東方のお飾り,Eastern Decoration,東方装飾
+未分类,12350,東方のお飾り,東方のお飾り,Eastern Decoration,東方装飾
 未分类,12351,斯伊托里波恩,スイートリボン,Sweet Ribbon,3F30・スイートリボン
 未分类,12352,（未译）,白いネクタイ,White Tie,白領帶
 未分类,12353,白頸圈,白いチョーカー,White Choker,、白頸圈
@@ -14604,7 +14604,7 @@
 未分类,12492,紅蓮賈穆,紅蓮ジャム,Guren Jam,CC30・紅蓮ジャム
 未分类,12493,毒仙華,毒仙華,Toxic Flower,CD30・毒仙華
 未分类,12494,瑪古澤加伊托礦石,マグゼガイト鉱石,Magzegite Ore,CE30・マグゼガイト鉱石
-未分类,12495,（未译）,密閉打撃ビン,T. Impact Coating,T.冲撃塗層
+未分类,12495,密閉打撃瓶,密閉打撃ビン,T. Impact Coating,T.冲撃塗層
 未分类,12496,（未译）,備蓄強酸弾,T. Acid Shot,T.酸液射撃
 未分类,12497,（未译）,備蓄爆撃弾,T. Bomb S.,T.炸彈S
 未分类,12498,（未译）,軽量強撃剣晶,T. Power Crystal,T.力量水晶
@@ -14881,13 +14881,13 @@
 未分类,12913,（未译）,霞龍の剛角,Chameleos Hardhorn,霞龍頂角飾
 未分类,12914,霞龍強力尾巴,霞龍の靭尾,Chameleos Hardtail,霞龍強力之尾
 未分类,12915,（未译）,霞龍の極艶皮,Chameleos GlossHde,霞龍光澤皮
-未分类,12916,（未译）,炎王龍の重殻,Teostra Cortex,炎王重型盾甲
+未分类,12916,炎王龍重殻,炎王龍の重殻,Teostra Cortex,炎王重型盾甲
 未分类,12917,炎王龍王鱗,獄炎の厚龍鱗,Teostra Dragon Scl,炎王龍王鱗片
-未分类,12918,（未译）,炎王龍の剛角,Teostra Hardhorn,炎王頂角飾
-未分类,12919,炎王強力尾巴,炎王龍の靭尾,Teostra Hardtail,炎王強力之尾
-未分类,12920,（未译）,炎王龍の剛爪,Teostra Riptalon,炎王頂之爪
-未分类,12921,大炎王寶石,炎王龍の大宝玉,Large Teostra Gem,大炎王宝石
-未分类,12922,（未译）,炎王龍の獄角,Teostra ImprisonHorn,炎王禁錮角
+未分类,12918,炎王龍剛角,炎王龍の剛角,Teostra Hardhorn,炎王頂角飾
+未分类,12919,炎王龍靭尾,炎王龍の靭尾,Teostra Hardtail,炎王強力之尾
+未分类,12920,炎王龍剛爪,炎王龍の剛爪,Teostra Riptalon,炎王頂之爪
+未分类,12921,大炎王寶玉,炎王龍の大宝玉,Large Teostra Gem,大炎王宝石
+未分类,12922,炎王龍獄角,炎王龍の獄角,Teostra ImprisonHorn,炎王禁錮角
 未分类,12965,（未译）,剣斧魂・序,SAF Soul Low,斬斧之魂(低)
 未分类,12966,（未译）,剣斧魂・中,SAF Soul Mid,斬斧之魂(中)
 未分类,12967,（未译）,剣斧魂・極,SAF Soul High,斬斧之魂(高)
@@ -15401,21 +15401,21 @@
 未分类,13732,（未译）,棘竜の極剛角,Espinas Z High Hrn,棘龍高級角飾Z
 未分类,13733,（未译）,棘竜の極絶角,Espinas Z Top Horn,棘龍頂角飾Z
 未分类,13734,（未译）,プリプリした皮,Khezu Fresh Hide,電龍新鮮皮毛
-未分类,13735,（未译）,アルビノの蒼血,Khezu Spleen,電龍脾
-未分类,13736,白化絶縁膜,アルビノの絶縁膜,Khezu InsulatingFilm,電龍InsulatingFilm
-未分类,13737,電龍觸角毛皮,アルビノの触角毛,Khezu Antenna Fur,電龍触角毛皮
-未分类,13738,（未译）,真珠色の極柔皮,Khezu SoftPearlSkn,電龍軟珍珠皮
-未分类,13739,（未译）,アルビノパール,Khezu Pearl,電龍珍珠
-未分类,13740,（未译）,アルビノの柔翼,Khezu Soft Wing,電龍柔軟之翼
-未分类,13741,（未译）,アルビノの上柔翼,Khezu Sup Soft Wng,電龍超級柔軟之翼
+未分类,13735,白色蒼血,アルビノの蒼血,Khezu Spleen,電龍脾
+未分类,13736,白色絶縁膜,アルビノの絶縁膜,Khezu InsulatingFilm,電龍InsulatingFilm
+未分类,13737,電龍觸角毛,アルビノの触角毛,Khezu Antenna Fur,電龍触角毛皮
+未分类,13738,真珠色極柔皮,真珠色の極柔皮,Khezu SoftPearlSkn,電龍軟珍珠皮
+未分类,13739,白色珍珠,アルビノパール,Khezu Pearl,電龍珍珠
+未分类,13740,白色柔翼,アルビノの柔翼,Khezu Soft Wing,電龍柔軟之翼
+未分类,13741,白色上柔翼,アルビノの上柔翼,Khezu Sup Soft Wng,電龍超級柔軟之翼
 未分类,13742,電龍胃袋,アルビノの胃袋,Khezu Stomach,電龍Stomach
 未分类,13743,電龍巨大胃袋,アルビノの大胃袋,Khezu Huge Stomach,電龍巨大Stomach
-未分类,13744,（未译）,アルビノの吸盤,Khezu Sucker,電龍吸盤
-未分类,13745,（未译）,アルビノの強吸盤,Khezu Mega Sucker,電龍巨型吸盤
-未分类,13746,（未译）,アルビノの極頭,Khezu Z Head,電龍Z頭部
-未分类,13747,（未译）,アルビノの極上頭,Khezu Z Mid Head,電龍中Z頭部
-未分类,13748,（未译）,アルビノの極剛頭,Khezu Z High Head,電龍高級Z頭部
-未分类,13749,（未译）,アルビノの極絶頭,Khezu Z Top Head,電龍頂Z頭部
+未分类,13744,白色吸盤,アルビノの吸盤,Khezu Sucker,電龍吸盤
+未分类,13745,白色強吸盤,アルビノの強吸盤,Khezu Mega Sucker,電龍巨型吸盤
+未分类,13746,白色極頭,アルビノの極頭,Khezu Z Head,電龍Z頭部
+未分类,13747,白色極上頭,アルビノの極上頭,Khezu Z Mid Head,電龍中Z頭部
+未分类,13748,白色極剛頭,アルビノの極剛頭,Khezu Z High Head,電龍高級Z頭部
+未分类,13749,白色極絶頭,アルビノの極絶頭,Khezu Z Top Head,電龍頂Z頭部
 未分类,13750,血腥瑪加拉G,黒蝕竜の上鱗,Gore Magala Scale+,血腥瑪加拉+
 未分类,13751,（未译）,黒蝕竜の堅殻,Gore Magala Carapace,血腥瑪加拉甲殼
 未分类,13752,血腥瑪加拉撕爪G,黒蝕竜の鋭惨爪,Gore Magala Ripclaw+,血腥瑪加拉撕爪+
@@ -15432,20 +15432,20 @@
 未分类,13763,（未译）,黒蝕竜の天鱗,Gore Magala Mantle,血腥瑪加拉外套
 未分类,13764,（未译）,黒蝕竜の靭尾,Gore Magala Lash,血腥瑪加拉鞭笞
 未分类,13765,（未译）,黒蝕竜の剛触角,Gore Magala Sensor,血腥瑪加拉感應器
-未分类,13766,（未译）,火竜の熱殻,Rathalos Flame Shl,雄火龍火焔盾甲
-未分类,13767,雄火龍火焔鱗,火竜の熱鱗,Rathalos Searscale,雄火龍火焔鱗片
-未分类,13768,（未译）,火竜の灼爪,Rathalos Searclaw,雄火龍燃燒爪
-未分类,13769,（未译）,火竜の灼髄,Los Burning Blood,雄火龍燃燒血
-未分类,13770,（未译）,火竜の光逆鱗,Rathalos L.Plate,雄火龍光胸甲
-未分类,13771,雄火龍閃耀寶石,火竜の耀紅玉,Rathalos Nova Gem,雄火龍閃耀宝石
-未分类,13772,（未译）,火竜の頭棘,Rathalos Crown,雄火龍刺釘頭部
+未分类,13766,火龍的熱殻,火竜の熱殻,Rathalos Flame Shl,雄火龍火焔盾甲
+未分类,13767,火龍的熱鱗,火竜の熱鱗,Rathalos Searscale,雄火龍火焔鱗片
+未分类,13768,火龍的灼爪,火竜の灼爪,Rathalos Searclaw,雄火龍燃燒爪
+未分类,13769,火龍的灼髄,火竜の灼髄,Los Burning Blood,雄火龍燃燒血
+未分类,13770,火龍的光逆鱗,火竜の光逆鱗,Rathalos L.Plate,雄火龍光胸甲
+未分类,13771,火龍的耀紅玉,火竜の耀紅玉,Rathalos Nova Gem,雄火龍閃耀宝石
+未分类,13772,火龍的頭棘,火竜の頭棘,Rathalos Crown,雄火龍刺釘頭部
 未分类,13773,火龍剛頭棘,火竜の剛頭棘,Rathalos S. Crown,RathlosStrngHeadSpke
 未分类,13774,火龍燐尾,火竜の燐尾,Los Burning Tail,RathalosPhosphorTail
 未分类,13775,火龍靭燐尾,火竜の靭燐尾,Los S.Burning Tail,RthlsStrngPhsphrTail
-未分类,13776,（未译）,火竜の極翼,Rathalos Z Wing,雄火龍之翼Z
-未分类,13777,（未译）,火竜の極上翼,Los Z Mid Wing,雄火龍中之翼Z
-未分类,13778,（未译）,火竜の極剛翼,Los Z High Wing,雄火龍高級之翼Z
-未分类,13779,（未译）,火竜の極絶翼,Los Z Fellwing,雄火龍頂之翼Z
+未分类,13776,火龍的極翼,火竜の極翼,Rathalos Z Wing,雄火龍之翼Z
+未分类,13777,火龍的極上翼,火竜の極上翼,Los Z Mid Wing,雄火龍中之翼Z
+未分类,13778,火龍的極剛翼,火竜の極剛翼,Los Z High Wing,雄火龍高級之翼Z
+未分类,13779,火龍的極絶翼,火竜の極絶翼,Los Z Fellwing,雄火龍頂之翼Z
 未分类,13780,鮮麗葵布,鮮麗な葵布,Beautiful B. Cloth,D435・≪鮮麗葵布
 未分类,13781,D535・撕裂鱗,引き裂かれた鱗,Torn Scales,≫D535・≪撕裂鱗片≫
 未分类,13782,（未译）,ダミー１３７８２,Dummy 13782,Dummy13782
