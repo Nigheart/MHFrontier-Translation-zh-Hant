@@ -117,6 +117,8 @@ This project was mainly carried out by **DeepSeek 大肥鱼**: generating and re
 deriving the glossary, devising workarounds for the limited CP932 character set, and running all
 validation.
 
+Additional thanks to **MazeDark** for their assistance.
+
 ---
 
 ## Translation conventions
@@ -199,6 +201,7 @@ Bilibili release belong to their respective authors.
 - [metalmouse](https://space.bilibili.com/66745548) — the *Monster Hunter Frontier ZZ* all-in-one release
 - [mhwiki.axibug.com](https://mhwiki.axibug.com) / [rekowiki.org](https://rekowiki.org) / [monsterhunterwiki.org](https://monsterhunterwiki.org) — source and name references
 - **DeepSeek 大肥鱼** — main translation and validation work
+- **MazeDark** — assistance
 - and everyone still hunting on the Frontier
 
 ---

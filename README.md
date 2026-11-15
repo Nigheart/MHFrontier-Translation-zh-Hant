@@ -110,6 +110,8 @@ UP 主 [metalmouse](https://space.bilibili.com/66745548)
 本项目主要由 **DeepSeek 大肥鱼** 参与完成：译文的生成与重写、术语表推导、
 CP932 字表受限下的改述策略、以及全部校验工作。
 
+另感谢 **MazeDark** 的协助。
+
 ---
 
 ## 翻译口径
@@ -183,6 +185,7 @@ CP932 字表受限下的改述策略、以及全部校验工作。
 - [B 站 UP 主 metalmouse](https://space.bilibili.com/66745548) —— 《怪物猎人 边境ZZ》单机整合终极版
 - [mhwiki.axibug.com](https://mhwiki.axibug.com) / [rekowiki.org](https://rekowiki.org) / [monsterhunterwiki.org](https://monsterhunterwiki.org) —— 原文与译名参考
 - **DeepSeek 大肥鱼** —— 本项目主要翻译与校验工作
+- **MazeDark** —— 协助
 - 以及所有仍在玩《边境》的人
 
 ---
