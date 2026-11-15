@@ -1,0 +1,14 @@
+# 本仓库只放译文数据，不含任何二进制或构建产物
+*.bin
+*.exe
+*.dll
+*.zip
+*.7z
+
+# 系统 / 编辑器
+Thumbs.db
+desktop.ini
+.DS_Store
+*.swp
+*~
+*.tmp
