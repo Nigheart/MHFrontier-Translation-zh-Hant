@@ -48,10 +48,9 @@ not part of this repository.
 │           ├── unclassified.csv Unclassified items and materials     (8,952)
 │           └── others.csv       Other items                          (1,430)
 └── docs/
-    ├── 术语表与译名对照.md         glossary: monster / material / item / part names
-    ├── 怪物素材物品四语对照表.md    four-language table (JA / ZH-Hant / EN / ZH-Hans)
-    ├── 怪物素材物品四语对照表.csv
-    ├── 最终审计报告.txt            final audit report
+    ├── 术语表与译名对照.md         glossary: naming decisions and common pitfalls
+    ├── 怪物名对照表.md             monster names, JA / ZH-Hant / EN (88 entries)
+    ├── 怪物素材物品对照表.csv       materials and items, JA / ZH-Hant / EN / previous name
     └── reports/                  per-stage review and re-translation reports
 ```
 
@@ -172,8 +171,9 @@ puzzles are kept verbatim rather than inventing meaning that the original does n
 - **Building a patch**: take `精翻名称`, `精翻说明` and `精翻获取途径` per `条目ID`, and write them
   back into the matching slots of `mhfdat.bin`. Empty values mean "keep the original text".
 - **Proofreading**: compare the "current" and "translated" columns.
-- **Glossaries**: see [`docs/术语表与译名对照.md`](docs/术语表与译名对照.md) and
-  [`docs/怪物素材物品四语对照表.csv`](docs/怪物素材物品四语对照表.csv).
+- **Glossaries**: see [`docs/术语表与译名对照.md`](docs/术语表与译名对照.md),
+  [`docs/怪物名对照表.md`](docs/怪物名对照表.md) and
+  [`docs/怪物素材物品对照表.csv`](docs/怪物素材物品对照表.csv).
 
 Writing back to `mhfdat.bin` requires CP932 encoding and pointer-table remapping; that part is
 out of scope for this repository.
