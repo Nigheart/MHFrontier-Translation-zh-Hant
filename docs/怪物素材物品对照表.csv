@@ -175,11 +175,11 @@
 怪物素材,474,白銀角,白銀の角,W.Monoblos Horn,白色一角龍角
 怪物素材,475,白一角龍甲殼,白一角竜の甲殻,W.Monoblos Shell,白色一角龍盾甲
 怪物素材,476,白一角龍背甲,白一角竜の背甲,W.Monoblos Spine,白色一角龍刺
-怪物素材,477,（未译）,キリンの雷角,Kirin Horn,麒麟角
-怪物素材,478,（未译）,キリンの皮,Kirin Hide,麒麟皮毛
-怪物素材,479,（未译）,キリンの上皮,Kirin Hide+,麒麟上皮
+怪物素材,477,麒麟雷角,キリンの雷角,Kirin Horn,麒麟角
+怪物素材,478,麒麟皮,キリンの皮,Kirin Hide,麒麟皮毛
+怪物素材,479,麒麟上皮,キリンの上皮,Kirin Hide+,麒麟上皮
 怪物素材,480,麒麟鬣毛,キリンのたてがみ,Kirin Mane,麒麟Mane
-怪物素材,481,麒麟雷鳴尾巴,キリンの雷尾,Kirin Thndr Tail,麒麟雷鳴之尾
+怪物素材,481,麒麟雷尾,キリンの雷尾,Kirin Thndr Tail,麒麟雷鳴之尾
 怪物素材,482,麒麟蒼角,キリンの蒼角,Kirin Azure Horn,麒麟蒼角飾
 怪物素材,483,老山龍大爪,老山龍の大爪,Lao-Shan Claw,老山山之爪
 怪物素材,484,老山龍角,老山龍の角,Lao-Shan Horn,老山山角飾
@@ -657,7 +657,7 @@
 怪物素材,3539,蠻龍爪,蛮竜の爪,Guren Claw,紅蓮之爪
 怪物素材,3540,蠻龍角,蛮竜の角,Guren Horn,紅蓮角飾
 怪物素材,3541,蠻龍翼,蛮竜の翼,Guren Wing,紅蓮之翼
-怪物素材,3542,蠻龍尾巴,蛮竜の尾,Guren Tail,紅蓮之尾
+怪物素材,3542,蠻龍尾,蛮竜の尾,Guren Tail,紅蓮之尾
 怪物素材,3543,蠻龍棘,蛮竜の棘,Guren Spike,紅蓮刺釘
 怪物素材,3544,蠻龍上鱗,蛮竜の上鱗,Guren Scale+,紅蓮+
 怪物素材,3545,蠻龍上皮,蛮竜の上皮,Guren Hide+,紅蓮上皮
@@ -676,8 +676,8 @@
 怪物素材,3578,艾魯皮角,エルペの角,Erupe Horn,艾魯皮角飾
 怪物素材,3579,艾魯皮毛皮,エルペの毛皮,Erupe Hide,艾魯皮皮毛
 怪物素材,3580,（未译）,エルペの蹄,Erupe Hoof,艾魯皮蹄
-怪物素材,3712,麒麟上質皮毛,キリンの最上皮,Kirin Piel,麒麟頂皮毛
-怪物素材,3713,麒麟銀尾巴,キリンの銀尾,Kirin Silver Tail,麒麟銀之尾
+怪物素材,3712,麒麟最上皮,キリンの最上皮,Kirin Piel,麒麟頂皮毛
+怪物素材,3713,麒麟銀尾,キリンの銀尾,Kirin Silver Tail,麒麟銀之尾
 怪物素材,3714,麒麟銀角,キリンの銀角,Kirin Silver Horn,麒麟銀角飾
 怪物素材,3715,霞龍斑皮,霞龍の斑皮,Cham.Speckled Skin,霞龍斑点皮膚
 怪物素材,3716,霞龍幻皮,霞龍の幻皮,Cham.Illusion Skin,霞龍幻覺皮膚
@@ -686,9 +686,9 @@
 怪物素材,3719,（未译）,毒々しいクチバシ,Poisonous Beak,有毒鳥喙
 怪物素材,3720,棘龍豪棘,棘竜の豪棘,Espinas Rage Spike,棘龍憤怒刺釘
 怪物素材,3721,棘龍快棘,棘竜の快棘,Espi.Euphoria Spk,棘龍的優棘
-怪物素材,3722,冰獰龍冷殼,氷狐竜の冷殻,Dyura Cold Shell,創龍寒冷盾甲
-怪物素材,3723,冰獰龍凍殼,氷狐竜の凍殻,Dyura Frost Shell,創龍冰霜盾甲
-怪物素材,3724,冰獰龍冰殼,氷狐竜の氷殻,Dyura Ice Shell,創龍冰凍盾甲
+怪物素材,3722,冰狐龍冷殼,氷狐竜の冷殻,Dyura Cold Shell,創龍寒冷盾甲
+怪物素材,3723,冰狐龍凍殼,氷狐竜の凍殻,Dyura Frost Shell,創龍冰霜盾甲
+怪物素材,3724,冰狐龍冰殼,氷狐竜の氷殻,Dyura Ice Shell,創龍冰凍盾甲
 怪物素材,3725,將軍鎌蟹斷爪,鎌蟹の断爪,Shogun Kill Claw,将軍斬殺之爪
 怪物素材,3726,將軍鎌蟹斬爪,鎌蟹の斬爪,Shogun Slice Claw,将軍斬撃之爪
 怪物素材,3727,將軍鎌蟹絶爪,鎌蟹の絶爪,Shogun Sever Claw,将軍切断之爪
@@ -1152,7 +1152,7 @@
 食品药品,299,魔物蛋,モンスターエッグ,Monster Egg,怪物蛋
 食品药品,300,Poogie餅乾,ブタせんべい,Poogie Crackers,Poogie餅干
 食品药品,658,應急藥,応急薬,First-Aid Med,應急中
-食品药品,664,（未译）,支給専用秘薬,EZ Max Potion,最大藥水EZ
+食品药品,664,支給専用秘薬,支給専用秘薬,EZ Max Potion,最大藥水EZ
 食品药品,942,黏滑茸,ヌメリンギ,Slimy Mushroom,黏滑Mushroom
 食品药品,1070,（未译）,スタミナ飲料Ｎ,Stamina Drink N,耐力飲品N
 食品药品,1511,（未译）,漢方薬Ｇ,Herbal Medicine G,草藥藥物G
@@ -1323,7 +1323,7 @@
 书籍票券硬币,2963,（未译）,冥雷竜討伐の証,Dora Proof,多拉證明
 书籍票券硬币,3248,（未译）,勝者の証,Winner's Proof,勝者證明
 书籍票券硬币,3313,（未译）,親愛なる仲間の印,Comrade Seal,親愛朋友標記
-书籍票券硬币,3551,（未译）,蛮竜討伐の証,Guren Proof,紅蓮證明
+书籍票券硬币,3551,蠻龍討伐之證,蛮竜討伐の証,Guren Proof,紅蓮證明
 书籍票券硬币,7985,（未译）,育成支援チケット,Dev.Support Tickt,開發支持券
 书籍票券硬币,10571,金猫榮冠,金ネコの栄冠,Gold Neko Crown,4B29・金猫栄冠
 书籍票券硬币,10572,銀猫榮光,銀ネコの栄光,Silver Neko Glory,4C29・銀猫栄光
@@ -2124,7 +2124,7 @@
 辅助道具,77,劇毒煙霧炸彈,毒けむり玉,Poison Smoke Bomb,劇毒烟霧炸彈
 辅助道具,78,回歸球,モドリ玉,Farcaster,烟霧玉
 辅助道具,79,（未译）,消臭玉,Deodorant,消臭玉
-辅助道具,80,捕獲用麻醉藥,捕獲用麻酔玉,Tranq Bomb,麻醉炸彈
+辅助道具,80,捕獲用麻醉玉,捕獲用麻酔玉,Tranq Bomb,麻醉炸彈
 辅助道具,81,蜘蛛網,クモの巣,Spiderweb,蜘蛛巣
 辅助道具,82,網子,ネット,Net,Net
 辅助道具,83,陷井工具,トラップツール,Trap Tool,罠道具
@@ -4949,20 +4949,20 @@
 装饰品,7852,尾晶蠍射珠GX3,アクラ射珠GX3,Akura GN GX3,尾晶蝎GNGX3
 装饰品,7853,尾晶蠍射珠GX4,アクラ射珠GX4,Akura GN GX4,尾晶蝎GNGX4
 装饰品,7854,尾晶蠍射珠GX5,アクラ射珠GX5,Akura GN GX5,尾晶蝎GNGX5
-装饰品,7855,紅蓮劍珠G,グレン剣珠Ｇ,Guren BM G,紅蓮BMG
-装饰品,7856,紅蓮劍珠GF,グレン剣珠GF,Guren BM GF,紅蓮BMGF
-装饰品,7857,紅蓮劍珠GX1,グレン剣珠GX1,Guren BM GX1,紅蓮BMGX1
-装饰品,7858,紅蓮劍珠GX2,グレン剣珠GX2,Guren BM GX2,紅蓮BMGX2
-装饰品,7859,紅蓮劍珠GX3,グレン剣珠GX3,Guren BM GX3,紅蓮BMGX3
-装饰品,7860,紅蓮劍珠GX4,グレン剣珠GX4,Guren BM GX4,紅蓮BMGX4
-装饰品,7861,紅蓮劍珠GX5,グレン剣珠GX5,Guren BM GX5,紅蓮BMGX5
-装饰品,7862,紅蓮射珠G,グレン射珠Ｇ,Guren GN G,紅蓮GNG
-装饰品,7863,紅蓮射珠GF,グレン射珠GF,Guren GN GF,紅蓮GNGF
-装饰品,7864,紅蓮射珠GX1,グレン射珠GX1,Guren GN GX1,紅蓮GNGX1
-装饰品,7865,紅蓮射珠GX2,グレン射珠GX2,Guren GN GX2,紅蓮GNGX2
-装饰品,7866,紅蓮射珠GX3,グレン射珠GX3,Guren GN GX3,紅蓮GNGX3
-装饰品,7867,紅蓮射珠GX4,グレン射珠GX4,Guren GN GX4,紅蓮GNGX4
-装饰品,7868,紅蓮射珠GX5,グレン射珠GX5,Guren GN GX5,紅蓮GNGX5
+装饰品,7855,蠻龍劍珠G,グレン剣珠Ｇ,Guren BM G,紅蓮BMG
+装饰品,7856,蠻龍劍珠GF,グレン剣珠GF,Guren BM GF,紅蓮BMGF
+装饰品,7857,蠻龍劍珠GX1,グレン剣珠GX1,Guren BM GX1,紅蓮BMGX1
+装饰品,7858,蠻龍劍珠GX2,グレン剣珠GX2,Guren BM GX2,紅蓮BMGX2
+装饰品,7859,蠻龍劍珠GX3,グレン剣珠GX3,Guren BM GX3,紅蓮BMGX3
+装饰品,7860,蠻龍劍珠GX4,グレン剣珠GX4,Guren BM GX4,紅蓮BMGX4
+装饰品,7861,蠻龍劍珠GX5,グレン剣珠GX5,Guren BM GX5,紅蓮BMGX5
+装饰品,7862,蠻龍射珠G,グレン射珠Ｇ,Guren GN G,紅蓮GNG
+装饰品,7863,蠻龍射珠GF,グレン射珠GF,Guren GN GF,紅蓮GNGF
+装饰品,7864,蠻龍射珠GX1,グレン射珠GX1,Guren GN GX1,紅蓮GNGX1
+装饰品,7865,蠻龍射珠GX2,グレン射珠GX2,Guren GN GX2,紅蓮GNGX2
+装饰品,7866,蠻龍射珠GX3,グレン射珠GX3,Guren GN GX3,紅蓮GNGX3
+装饰品,7867,蠻龍射珠GX4,グレン射珠GX4,Guren GN GX4,紅蓮GNGX4
+装饰品,7868,蠻龍射珠GX5,グレン射珠GX5,Guren GN GX5,紅蓮GNGX5
 装饰品,7869,稻荷劍珠G,稲荷剣珠Ｇ,Inari BM G,稻荷BMG
 装饰品,7870,稻荷劍珠GF,稲荷剣珠GF,Inari BM GF,稻荷BMGF
 装饰品,7871,稻荷劍珠GX1,稲荷剣珠GX1,Inari BM GX1,稻荷BMGX1
@@ -7792,7 +7792,7 @@
 未分类,640,（未译）,牙獣種の書,Fanged Beast Info,牙獸獸情報
 未分类,641,（未译）,ドドブランゴの書,Blangonga Info,雪獅子情報
 未分类,642,（未译）,ラージャンの書,Rajang Info,金獅子情報
-未分类,643,（未译）,キリンの書,Kirin Info,麒麟情報
+未分类,643,麒麟情報,キリンの書,Kirin Info,麒麟情報
 未分类,644,鋼龍情報,クシャルダオラの書,Kushala Info,霞龍情報
 未分类,645,（未译）,オオナズチの書,Chameleos Info,霞龍情報
 未分类,646,（未译）,ナナ・テスカトリの書,Lunastra Info,炎妃情報
@@ -7844,9 +7844,9 @@
 未分类,1103,（未译）,匠の意地,Artisan's Belief,工匠的信念
 未分类,1169,神奧魯加龍情報,カム・オルガロンの書,Kamu Orugaron Info,神奥魯加龍情報
 未分类,1170,諾諾奧魯加龍情報,ノノ・オルガロンの書,Nono Orugaron Info,諾諾奥魯加龍情報
-未分类,1171,（未译）,デュラガウアの書,Dyuragaua Info,戈利亞斯情報
-未分类,1172,蠻龍之書,グレンゼブルの書,Gurenzeburu Info,Gurenzeburu情報
-未分类,1173,（未译）,ルコディオラの書,Rukodiora Info,極龍情報
+未分类,1171,冰狐龍情報,デュラガウアの書,Dyuragaua Info,戈利亞斯情報
+未分类,1172,蠻龍情報,グレンゼブルの書,Gurenzeburu Info,Gurenzeburu情報
+未分类,1173,極龍情報,ルコディオラの書,Rukodiora Info,極龍情報
 未分类,1174,（未译）,ゴゴモアの書,Gogomoa Info,戈戈莫阿情報
 未分类,1175,將軍鎌蟹多殼蟹情報,タイクンザムザの書,Taikun Zamuza Info,鎌蟹斬龍情報
 未分类,1176,（未译）,アビオルグの書,Abiorugu Info,阿比情報
@@ -8361,7 +8361,7 @@
 未分类,2038,拉斯塔梅達魯,ラスタメダル,Rasta Metal,F607・ラスタメダル
 未分类,2039,（未译）,キャラバンメダル,Caravan Medal,遠征勳章
 未分类,2040,（未译）,剣晶無し,No Crystal,之水晶
-未分类,2041,（未译）,応急薬グレート,First Aid Med G,最初援助中G
+未分类,2041,應急藥G,応急薬グレート,First Aid Med G,最初援助中G
 未分类,2042,補給勇氣果實,支給用怯まずの実,EZ Resolve Fruit,補給勇气果實
 未分类,2043,攜帯布梅拉恩G,携帯ブーメランＧ,Mobile Boomerang G,FB07・携帯ブーメランＧ
 未分类,2044,支給用石塊G,支給用石ころＧ,EZ Stones,FC07・支給用石塊G
@@ -8640,19 +8640,19 @@
 未分类,2642,（未译）,朽ちた皮,Decayed Hide,腐爛皮膚
 未分类,2643,鎧龍尾巴骨頭,鎧竜の尾骨,Gravios Tailbone,鎧龍之尾骨頭
 未分类,2644,（未译）,武具職人の極意,Armorer's Secret,匠人秘密
-未分类,2645,戈利亞斯鱗,氷狐竜の鱗,Dyuragaua Scale,戈利亞斯鱗片
-未分类,2646,（未译）,氷狐竜の甲殻,Dyuragaua Shell,戈利亞斯盾甲
-未分类,2647,（未译）,氷狐竜の爪,Dyuragaua Claw,戈利亞斯之爪
-未分类,2648,（未译）,氷狐竜の角,Dyuragaua Horn,戈利亞斯角飾
-未分类,2649,戈利亞斯尾巴,氷狐竜の尾,Dyuragaua Tail,戈利亞斯之尾
-未分类,2650,（未译）,氷狐竜の棘,Dyuragaua Spike,戈利亞斯刺釘
-未分类,2651,戈利亞斯G,氷狐竜の上鱗,Dyuragaua Scale+,戈利亞斯+
-未分类,2652,（未译）,氷狐竜の堅殻,Dyuragaua Carapace,戈利亞斯甲殼
-未分类,2653,戈利亞斯爪G,氷狐竜の鋭爪,Dyuragaua Claw+,戈利亞斯爪+
-未分类,2654,（未译）,氷狐竜の尖角,Dyuragaua Horn+,戈利亞斯上角
-未分类,2655,戈利亞斯尾G之,氷狐竜の靱尾,Dyuragaua Tail+,戈利亞斯尾+之
-未分类,2656,戈利亞斯刺G,氷狐竜の上棘,Dyuragaua Spike+,戈利亞斯刺+
-未分类,2657,（未译）,氷狐竜討伐の証,Dyuragaua Proof,戈利亞斯證明
+未分类,2645,冰狐龍鱗,氷狐竜の鱗,Dyuragaua Scale,戈利亞斯鱗片
+未分类,2646,冰狐龍甲殼,氷狐竜の甲殻,Dyuragaua Shell,戈利亞斯盾甲
+未分类,2647,冰狐龍爪,氷狐竜の爪,Dyuragaua Claw,戈利亞斯之爪
+未分类,2648,冰狐龍角,氷狐竜の角,Dyuragaua Horn,戈利亞斯角飾
+未分类,2649,冰狐龍尾,氷狐竜の尾,Dyuragaua Tail,戈利亞斯之尾
+未分类,2650,冰狐龍棘,氷狐竜の棘,Dyuragaua Spike,戈利亞斯刺釘
+未分类,2651,冰狐龍上鱗,氷狐竜の上鱗,Dyuragaua Scale+,戈利亞斯+
+未分类,2652,冰狐龍堅殼,氷狐竜の堅殻,Dyuragaua Carapace,戈利亞斯甲殼
+未分类,2653,冰狐龍鋭爪,氷狐竜の鋭爪,Dyuragaua Claw+,戈利亞斯爪+
+未分类,2654,冰狐龍尖角,氷狐竜の尖角,Dyuragaua Horn+,戈利亞斯上角
+未分类,2655,冰狐龍靭尾,氷狐竜の靱尾,Dyuragaua Tail+,戈利亞斯尾+之
+未分类,2656,冰狐龍上棘,氷狐竜の上棘,Dyuragaua Spike+,戈利亞斯刺+
+未分类,2657,冰狐龍討伐之證,氷狐竜討伐の証,Dyuragaua Proof,戈利亞斯證明
 未分类,2658,（未译）,新人の証,Rookie Proof,新秀證明
 未分类,2659,片手劍魂・序,片手剣魂・序,SnS Soul (Low),片手劍之魂(低)
 未分类,2660,片手劍魂・中,片手剣魂・中,SnS Soul (Mid),片手劍之魂(中)
@@ -9146,17 +9146,17 @@
 未分类,3982,莫魯徳諾P生産券,モルデノＰ生産券,Morudeno P Tkt,8E0F・モルデノＰ生産券
 未分类,3983,斯特諾R生産券,ステンオＲ生産券,Steno R Tkt,8F0F・ステンオＲ生産券
 未分类,3984,極龍鱗,極龍の鱗,Rukodiora Scale,極龍鱗片
-未分类,3985,（未译）,極龍の爪,Rukodiora Claw,極龍之爪
-未分类,3986,（未译）,極龍の角,Rukodiora Horn,極龍角飾
-未分类,3987,禍鬥翼,極龍の翼,Rukodiora Wing,禍斗翼
-未分类,3988,極龍尾巴,極龍の尾,Rukodiora Tail,極龍之尾
-未分类,3989,極龍寶石,極龍の黒曜玉,Rukodiora Gem,極龍宝石
-未分类,3990,極龍G,極龍の電鱗,Rukodiora Scale+,極龍+
-未分类,3991,極龍爪G,極龍の鋭爪,Rukodiora Claw+,極龍爪+
-未分类,3992,（未译）,極龍の曜角,Rukodiora Horn+,極龍上角
-未分类,3993,極龍網膜,極龍の雷膜,Rukodiora Webbing,極龍网膜
-未分类,3994,極龍尾G之,極龍の靭尾,Rukodiora Tail+,極龍尾+之
-未分类,3996,（未译）,極龍討伐の証,Rukodiora Proof,極龍證明
+未分类,3985,極龍爪,極龍の爪,Rukodiora Claw,極龍之爪
+未分类,3986,極龍角,極龍の角,Rukodiora Horn,極龍角飾
+未分类,3987,極龍翼,極龍の翼,Rukodiora Wing,禍斗翼
+未分类,3988,極龍尾,極龍の尾,Rukodiora Tail,極龍之尾
+未分类,3989,極龍黒曜玉,極龍の黒曜玉,Rukodiora Gem,極龍宝石
+未分类,3990,極龍電鱗,極龍の電鱗,Rukodiora Scale+,極龍+
+未分类,3991,極龍鋭爪,極龍の鋭爪,Rukodiora Claw+,極龍爪+
+未分类,3992,極龍曜角,極龍の曜角,Rukodiora Horn+,極龍上角
+未分类,3993,極龍雷膜,極龍の雷膜,Rukodiora Webbing,極龍网膜
+未分类,3994,極龍靭尾,極龍の靭尾,Rukodiora Tail+,極龍尾+之
+未分类,3996,極龍討伐之證,極龍討伐の証,Rukodiora Proof,極龍證明
 未分类,3997,法米通奇凱托,ファミ通チケット,Famitsu Tkt,9D0F・ファミ通チケット
 未分类,3998,（未译）,肉球のメダル,Pawprint Medal,肉球印勳章
 未分类,3999,（未译）,カルド鉱石【白】,Card Ore White,喀片礦石[白]
@@ -9353,7 +9353,7 @@
 未分类,4392,供應根性券,支給用根性札,Sply Guts Tkt,供應根性Tkt
 未分类,4398,（未译）,大巌竜の紅血,Violent Ravi Blood,暴力拉維血紅
 未分类,4399,（未译）,古龍種の骨,Ancient Drgn Bone,長老龍王骨制
-未分类,4400,（未译）,極龍の黒石,Rukodiora Stone,極龍石頭
+未分类,4400,極龍黒石,極龍の黒石,Rukodiora Stone,極龍石頭
 未分类,4401,４４０１預留,４４０１ダミー,4401dummy,3111・４４０１ダミー
 未分类,4402,４４０２預留,４４０２ダミー,4402dummy,3211・４４０２ダミー
 未分类,4403,４４０３預留,４４０３ダミー,4403dummy,3311・４４０３ダミー
@@ -10295,8 +10295,8 @@
 未分类,5725,（未译）,支給Ｇのグローブ,Glove G Token,手套信物G
 未分类,5726,（未译）,牙獣種の棘,Pelagus Spike,牙獸刺釘
 未分类,5727,蠻龍荒角,蛮竜の荒角,Guren Rough Horn,紅蓮Rough角飾
-未分类,5728,（未译）,蛮竜の猛角,Guren Fierce Horn,紅蓮猛烈角飾
-未分类,5729,（未译）,蛮竜の暴角,Guren Violent Horn,紅蓮暴力角飾
+未分类,5728,蠻龍猛角,蛮竜の猛角,Guren Fierce Horn,紅蓮猛烈角飾
+未分类,5729,蠻龍暴角,蛮竜の暴角,Guren Violent Horn,紅蓮暴力角飾
 未分类,5730,（未译）,錆びた重翼,Rusted Heavy Wing,生錆重型之翼
 未分类,5731,（未译）,錆びた鉛翼,Rusted Lead Wing,生錆鉛之翼
 未分类,5732,（未译）,錆びた剛翼,Rusted Fellwing,生錆頂之翼
@@ -11159,13 +11159,13 @@
 未分类,6732,（未译）,黒狼鳥の絶殻,Garuga Crazy Shell,黑狼鳥強力盾甲
 未分类,6733,（未译）,黒狼鳥の大翼,Garuga Dark Weave,黑狼鳥大之翼
 未分类,6734,（未译）,黒狼鳥の鉤爪,Garuga Rend Claw,黑狼鳥鋒利爪
-未分类,6735,（未译）,蛮竜の絶殻,Guren Wrath Shell,紅蓮強力盾甲
-未分类,6736,（未译）,蛮竜の怒角,Guren Rage Horn,紅蓮憤怒角飾
-未分类,6737,紅蓮熟練尾巴,蛮竜の練尾,Guren Fierce Tail,紅蓮熟練之尾
-未分类,6738,（未译）,蛮竜の絶棘,Guren Brute Spike,紅蓮強力刺釘
-未分类,6739,創龍強力鱗,氷狐竜の絶鱗,Dyura Frozen Shard,創龍強力鱗片
-未分类,6740,（未译）,氷狐竜の凛殻,Dyura Frost Cortex,戈利亞斯冰霜盾甲
-未分类,6741,（未译）,氷狐竜の冴棘,Dyura Chill Spike,創龍冰霜刺釘
+未分类,6735,蠻龍絶殻,蛮竜の絶殻,Guren Wrath Shell,紅蓮強力盾甲
+未分类,6736,蠻龍怒角,蛮竜の怒角,Guren Rage Horn,紅蓮憤怒角飾
+未分类,6737,蠻龍練尾,蛮竜の練尾,Guren Fierce Tail,紅蓮熟練之尾
+未分类,6738,蠻龍絶棘,蛮竜の絶棘,Guren Brute Spike,紅蓮強力刺釘
+未分类,6739,冰狐龍絶鱗,氷狐竜の絶鱗,Dyura Frozen Shard,創龍強力鱗片
+未分类,6740,冰狐龍凜殼,氷狐竜の凛殻,Dyura Frost Cortex,戈利亞斯冰霜盾甲
+未分类,6741,冰狐龍冴棘,氷狐竜の冴棘,Dyura Chill Spike,創龍冰霜刺釘
 未分类,6742,（未译）,暴鋸竜の牙,Anoru Fang,od獵犬之牙
 未分类,6743,（未译）,暴鋸竜の甲殻,Anour Shell,od獵犬盾甲
 未分类,6744,（未译）,暴鋸竜の鋸角,Anoru Horn,od獵犬角飾
@@ -11190,13 +11190,13 @@
 未分类,6763,（未译）,黒狐竜の変血,Mi-Ru Blood,米如血紅
 未分类,6764,（未译）,黒狐竜の角,Mi-Ru Obscure Horn,米如角飾
 未分类,6765,（未译）,黒狐竜の棘,Mi-Ru Spike,米如刺釘
-未分类,6766,雷比迪奧拉鱗,雷極龍の鱗,Rebidiora Shard,雷比迪奥拉鱗片
-未分类,6767,（未译）,雷極龍の甲殻,Rebidiora Cortex,雷比盾甲
-未分类,6768,雷比迪奧拉網膜,雷極龍の輝雷膜,Rebidiora Weave,雷比迪奥拉网膜
+未分类,6766,雷極龍鱗,雷極龍の鱗,Rebidiora Shard,雷比迪奥拉鱗片
+未分类,6767,雷極龍甲殼,雷極龍の甲殻,Rebidiora Cortex,雷比盾甲
+未分类,6768,雷極龍輝雷膜,雷極龍の輝雷膜,Rebidiora Weave,雷比迪奥拉网膜
 未分类,6769,（未译）,磁雷石,Magnetic Stone,磁力石頭
-未分类,6770,雷比迪奧拉角飾,雷極龍の角,Rebidiora Horn,雷比迪奥拉角飾
-未分类,6771,雷比迪奧拉尾巴,雷極龍の尾,Rebidiora Lash,雷比迪奥拉之尾
-未分类,6772,雷比迪奧拉之翼,雷極龍の翼,Rebidiora Direwing,雷比迪奥拉之翼
+未分类,6770,雷極龍角,雷極龍の角,Rebidiora Horn,雷比迪奥拉角飾
+未分类,6771,雷極龍尾,雷極龍の尾,Rebidiora Lash,雷比迪奥拉之尾
+未分类,6772,雷極龍翼,雷極龍の翼,Rebidiora Direwing,雷比迪奥拉之翼
 未分类,6773,Shanthien鱗,天翔龍の鱗,Shanthien Shard,Shanthien鱗片
 未分类,6774,天翔龍甲殻,天翔龍の甲殻,Shanthien Cortex,Shanthien盾甲
 未分类,6775,天翔龍靈毛,天翔龍の霊毛,Shanthien Piel,Shanthien皮毛
@@ -11334,9 +11334,9 @@
 未分类,7001,（未译）,轟竜の至爪,Tigrex Mega Claw,轟龍至高之爪
 未分类,7002,（未译）,金獅子の仙毛,Rajang Everhide,金獅子不朽皮毛
 未分类,7003,（未译）,黒狼鳥の絶鱗,Garuga Powerscale,黑狼鳥強力鱗
-未分类,7004,（未译）,氷狐竜の絶爪,Dyura Powerclaw,創龍強力之爪
+未分类,7004,冰狐龍絶爪,氷狐竜の絶爪,Dyura Powerclaw,創龍強力之爪
 未分类,7005,（未译）,尾晶蠍の絶殻,Vashimu Mega Shell,華蜂鳥強力盾甲
-未分类,7006,紅蓮強力鱗,蛮竜の絶鱗,Guren Death Scale,紅蓮強力鱗片
+未分类,7006,蠻龍絶鱗,蛮竜の絶鱗,Guren Death Scale,紅蓮強力鱗片
 未分类,7007,武器套裝G,Ｇ級武器キット,G Weapon Kit,武器套装G
 未分类,7008,鎧甲套裝G,Ｇ級防具キット,G Armor Kit,鎧甲套装G
 未分类,7009,霸種迎撃戰貢獻證,覇種迎撃戦貢献証,Hades Inter. Tkt,611B・覇種迎撃戦貢献証
@@ -11621,8 +11621,8 @@
 未分类,7293,熔岩龍乱牙,溶岩竜の乱牙,Volg.Fierce Fang,猛烈熔岩龍Fng
 未分类,7294,（未译）,棘竜の毒棘,Espinas Tox.Thorn,棘龍劇毒刺釘
 未分类,7295,（未译）,金獅子の沸血,Raj.Boiling Blood,金獅子沸騰血紅
-未分类,7296,（未译）,蛮竜の豪棘,Guren Rage Spike,紅蓮憤怒刺釘
-未分类,7297,戈利亞斯重型尾巴,氷狐竜の筆尾,Dyuragaua Hvy.Tail,戈利亞斯重型之尾
+未分类,7296,蠻龍豪棘,蛮竜の豪棘,Guren Rage Spike,紅蓮憤怒刺釘
+未分类,7297,冰狐龍筆尾,氷狐竜の筆尾,Dyuragaua Hvy.Tail,戈利亞斯重型之尾
 未分类,7298,黒狼鳥裂殻,黒狼鳥の裂殻,Garuga Iron Cortex,黑狼鳥Tough盾甲
 未分类,7299,（未译）,闘獣の剛腕,Gougarf Strong Arm,猫蜥強力手臂
 未分类,7300,（未译）,闘獣討伐の証,Gougarf Proof,猫蜥證明
@@ -13776,13 +13776,13 @@
 未分类,11320,G烈雷鳥網膜,水砦竜の翼膜,Gureadomosu Webbing,G烈雷鳥网膜
 未分类,11321,G烈雷鳥尾巴,水砦竜の尻尾,Gureadomosu Tail,G烈雷鳥之尾
 未分类,11322,（未译）,水砦竜の管,Gureadomosu Tube,G烈雷鳥管状
-未分类,11323,（未译）,水砦竜の始殻,Gurea.Origin Shell,紅蓮起源殼
-未分类,11324,（未译）,水砦竜の始皮,Gurea.Origin Hide,紅蓮起源皮毛
-未分类,11325,（未译）,水砦竜の稀少苔,Gurea.Rare Moss,紅蓮稀有苔蘚
-未分类,11326,（未译）,水砦竜の浄水袋,Gurea.Hydro Filter,紅蓮流水淨化者
-未分类,11327,（未译）,水砦竜の潤翼,Gurea.Slick Wing,紅蓮光滑之翼
-未分类,11328,紅蓮苔蘚尾巴,水砦竜の苔群尾,Gurea.Mossy Tail,紅蓮苔蘚之尾
-未分类,11329,（未译）,水砦竜の柔管,Gurea.Soft Tube,紅蓮柔軟管状
+未分类,11323,水砦龍始殻,水砦竜の始殻,Gurea.Origin Shell,紅蓮起源殼
+未分类,11324,水砦龍始皮,水砦竜の始皮,Gurea.Origin Hide,紅蓮起源皮毛
+未分类,11325,水砦龍稀少苔,水砦竜の稀少苔,Gurea.Rare Moss,紅蓮稀有苔蘚
+未分类,11326,水砦龍淨水袋,水砦竜の浄水袋,Gurea.Hydro Filter,紅蓮流水淨化者
+未分类,11327,水砦龍潤翼,水砦竜の潤翼,Gurea.Slick Wing,紅蓮光滑之翼
+未分类,11328,水砦龍苔群尾,水砦竜の苔群尾,Gurea.Mossy Tail,紅蓮苔蘚之尾
+未分类,11329,水砦龍柔管,水砦竜の柔管,Gurea.Soft Tube,紅蓮柔軟管状
 未分类,11330,瓦利券,ヴァリエ生産券,Valier Tkt,瓦利Tkt
 未分类,11331,魯伊茨生産券,ルイーツ生産券,Louise Tkt,432C・ルイーツ生産券
 未分类,11332,雷伊阿魯瑪生産券,レイアルマ生産券,Rei Alma Tkt,442C・レイアルマ生産券
@@ -15127,20 +15127,20 @@
 未分类,13329,S夫雷阿生産券Ⅲ,Ｓフレア生産券Ⅲ,S Flare Tkt Ⅲ,1134・Ｓフレア生産券Ⅲ
 未分类,13330,（未译）,紅蓮獅子討伐の証,Voljang Proof,金獅子證明
 未分类,13331,麒麟絶皮,キリンの絶皮,Kirin Storm Hide,麒麟Absolute皮毛
-未分类,13332,麒麟Absolute尾巴,キリンの絶尾,Kirin Storm Tail,麒麟Absolute之尾
-未分类,13333,（未译）,キリンの剛腱,Kirin Sinew,麒麟頂肌腱
+未分类,13332,麒麟絶尾,キリンの絶尾,Kirin Storm Tail,麒麟Absolute之尾
+未分类,13333,麒麟剛腱,キリンの剛腱,Kirin Sinew,麒麟頂肌腱
 未分类,13334,麒麟白銀鬣,キリンの白銀鬣,Kirin Silver Mane,麒麟銀Mane
-未分类,13335,（未译）,キリンの白銀角,Kirin Purehorn,麒麟白色角飾
-未分类,13336,極龍Absolute鱗,極龍の絶鱗,Ruko.Pureshard,極龍Absolute鱗片
+未分类,13335,麒麟白銀角,キリンの白銀角,Kirin Purehorn,麒麟白色角飾
+未分类,13336,極龍絶鱗,極龍の絶鱗,Ruko.Pureshard,極龍Absolute鱗片
 未分类,13337,極龍絶殻,極龍の絶殻,Ruko.Purecortex,極龍Absolute盾甲
 未分类,13338,極龍強磁角,極龍の強磁角,Ruko.Dynamo Horn,RukoStrngMagneticHrn
-未分类,13339,（未译）,極龍の磁翼膜,Ruko.Magnetic Wve,極龍磁力膜
+未分类,13339,極龍磁翼膜,極龍の磁翼膜,Ruko.Magnetic Wve,極龍磁力膜
 未分类,13340,極龍磁束尾,極龍の磁束尾,Ruko.Shocklash,極龍磁力Flx尾
-未分类,13341,極龍黒色光譜寶石,極龍の虹黒曜玉,Dark Spectrum Gem,極龍黑色光譜宝石
-未分类,13342,（未译）,極龍の朱棘,Rukodiora R.Spine,極龍紅脊椎
-未分类,13343,（未译）,極龍の朱爪,Rukodiora Red Claw,極龍紅之爪
-未分类,13344,（未译）,極龍の朱角,Rukodiora Red Horn,極龍紅角飾
-未分类,13345,（未译）,極龍の朱翼膜,Ruko Red Membrane,極龍紅薄膜
+未分类,13341,極龍虹黒曜玉,極龍の虹黒曜玉,Dark Spectrum Gem,極龍黑色光譜宝石
+未分类,13342,極龍朱棘,極龍の朱棘,Rukodiora R.Spine,極龍紅脊椎
+未分类,13343,極龍朱爪,極龍の朱爪,Rukodiora Red Claw,極龍紅之爪
+未分类,13344,極龍朱角,極龍の朱角,Rukodiora Red Horn,極龍紅角飾
+未分类,13345,極龍朱翼膜,極龍の朱翼膜,Ruko Red Membrane,極龍紅薄膜
 未分类,13346,（未译）,紅蓮獅子の殻,Voljang Shell,金獅子盾甲
 未分类,13347,（未译）,紅蓮獅子の牙,Voljang Fang,金獅子之牙
 未分类,13348,（未译）,紅蓮獅子の熱皮,Voljang Heat Hide,金獅子熱皮毛
@@ -15954,21 +15954,21 @@
 未分类,14515,（未译）,濁ったゲル,Plesioth Muddy Gel,水龍泥濘凝膠
 未分类,14516,水龍凝膠嚢,ゲル溜袋,Plesioth Gel Sac,水龍凝膠Sac
 未分类,14526,水龍鋒利尾巴刺,水竜の尖尾棘,Plesi Shrp Tail Spk,水龍鋒利之尾刺
-未分类,14527,極龍磁鐵鱗,極龍の鋼磁鱗,Ruko Magnet Scale,極龍磁鐵鱗片
-未分类,14528,（未译）,極龍の堅磁殻,Rukodiora Rigid Shll,極龍剛硬殼
-未分类,14529,（未译）,極龍の鋭磁爪,Ruko Shrp Magnet Clw,極龍鋒利磁鐵爪
-未分类,14530,（未译）,極龍の太磁骨,Rukodiora Heavy Bone,極龍重型骨制
-未分类,14531,極龍無血紅,極龍の反磁血,Rukodiora Null Blood,極龍无血紅
-未分类,14532,極龍磁鐵寶石,極龍の永磁玉,Rukodiora Magnet Gem,極龍磁鐵宝石
-未分类,14533,（未译）,極龍の橙棘,Ruko Orange Spike,極龍橙刺釘
-未分类,14534,極龍磁力尾巴,極龍の龍磁尾,Ruko Magnetic Tail,極龍磁力之尾
-未分类,14535,（未译）,極龍の橙角,Ruko Orange Horn,極龍橙角飾
-未分类,14536,（未译）,極龍の単極角,Ruko Extreme Horn,極龍極限角飾
+未分类,14527,極龍鋼磁鱗,極龍の鋼磁鱗,Ruko Magnet Scale,極龍磁鐵鱗片
+未分类,14528,極龍堅磁殻,極龍の堅磁殻,Rukodiora Rigid Shll,極龍剛硬殼
+未分类,14529,極龍鋭磁爪,極龍の鋭磁爪,Ruko Shrp Magnet Clw,極龍鋒利磁鐵爪
+未分类,14530,極龍太磁骨,極龍の太磁骨,Rukodiora Heavy Bone,極龍重型骨制
+未分类,14531,極龍反磁血,極龍の反磁血,Rukodiora Null Blood,極龍无血紅
+未分类,14532,極龍永磁玉,極龍の永磁玉,Rukodiora Magnet Gem,極龍磁鐵宝石
+未分类,14533,極龍橙棘,極龍の橙棘,Ruko Orange Spike,極龍橙刺釘
+未分类,14534,極龍龍磁尾,極龍の龍磁尾,Ruko Magnetic Tail,極龍磁力之尾
+未分类,14535,極龍橙角,極龍の橙角,Ruko Orange Horn,極龍橙角飾
+未分类,14536,極龍單極角,極龍の単極角,Ruko Extreme Horn,極龍極限角飾
 未分类,14537,梅蘭特絲,メレンテシルク,Melente Mat,梅蘭特Mat
-未分类,14539,（未译）,極龍の極翼,Ruko Z Wing,極龍之翼Z
-未分类,14540,（未译）,極龍の極上翼,Ruko Z Mid Wing,極龍中之翼Z
-未分类,14541,（未译）,極龍の極剛翼,Ruko Z High Wng,極龍高級翼Z
-未分类,14542,（未译）,極龍の極絶翼,Ruko Z Top Wing,極龍頂之翼Z
+未分类,14539,極龍極翼,極龍の極翼,Ruko Z Wing,極龍之翼Z
+未分类,14540,極龍極上翼,極龍の極上翼,Ruko Z Mid Wing,極龍中之翼Z
+未分类,14541,極龍極剛翼,極龍の極剛翼,Ruko Z High Wng,極龍高級翼Z
+未分类,14542,極龍極絶翼,極龍の極絶翼,Ruko Z Top Wing,極龍頂之翼Z
 未分类,14543,（未译）,幻魂石,Magic Soul Stone,魔法之魂石頭
 未分类,14544,（未译）,辰魂岩,Season Soul Stone,季節之魂石頭
 未分类,14545,（未译）,蛇魂岩,Snake Soul Stone,巨蛇之魂石頭
