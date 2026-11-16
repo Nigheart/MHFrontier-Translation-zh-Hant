@@ -51,6 +51,7 @@ not part of this repository.
     ├── 术语表与译名对照.md         glossary: naming decisions and common pitfalls
     ├── 怪物名对照表.md             monster names, JA / ZH-Hant / EN (88 entries)
     ├── 怪物素材物品对照表.csv       materials and items, JA / ZH-Hant / EN / previous name
+    ├── 日文原文对照.csv             full JA source + current text + translation (156k rows)
     └── reports/                  per-stage review and re-translation reports
 ```
 
@@ -171,6 +172,8 @@ puzzles are kept verbatim rather than inventing meaning that the original does n
 - **Building a patch**: take `精翻名称`, `精翻说明` and `精翻获取途径` per `条目ID`, and write them
   back into the matching slots of `mhfdat.bin`. Empty values mean "keep the original text".
 - **Proofreading**: compare the "current" and "translated" columns.
+- **Checking the Japanese source**: [`docs/日文原文对照.csv`](docs/日文原文对照.csv) lists the JA
+  original, the current text and the translation side by side for all 156k rows.
 - **Glossaries**: see [`docs/术语表与译名对照.md`](docs/术语表与译名对照.md),
   [`docs/怪物名对照表.md`](docs/怪物名对照表.md) and
   [`docs/怪物素材物品对照表.csv`](docs/怪物素材物品对照表.csv).
